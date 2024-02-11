@@ -4,155 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "dafb820b92430ffd",
+        "id": "73f950b9b42912b4",
         "type": "tabs",
         "children": [
           {
-            "id": "2cbbb9e444550623",
+            "id": "8db266de90ba6d0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Aesmandroth.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2387315aa676a92a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Races/Nolmer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "38697f8ac0aef7b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quests/Main/MQ1 - Dream of Fire.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8639690d13f1039",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quests/Main/MQ2 - Nepenthe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4623f189c34bb1ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quests/Main/MQ3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce57ca63f6dbdb85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quests/House Azura/HAQ1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "738773c1e398557e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quests/House Azura/HAQ2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e0d2803530636b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Aesmandroth.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "653f445b4b80d606",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quests/Side/Azura City/A Slave Obeys.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c61b0cbf3e7c710",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Aesmandroth.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9da328dc96fe682d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/HA Questgiver 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc8975286a0a272c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quests/Main/MQ4.md",
+                "file": "Characters/Daon.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quests/Main/MQ4.md",
+                "file": "Characters/Daon.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quests/Main/MQ4.md",
+                "file": "Characters/Daon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quests/Main/MQ4.md"
+                "file": "Characters/Daon.md"
               }
             }
           }
@@ -267,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -279,40 +146,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc8975286a0a272c",
+  "active": "8db266de90ba6d0d",
   "lastOpenFiles": [
-    "Quests/Main/MQ3.md",
-    "Quests/Main/MQ2 - Nepenthe.md",
-    "Quests/Main/MQ1 - Dream of Fire.md",
-    "Quests/Main/MQ4.md",
-    "Lore/Races/Nolmer.md",
-    "Characters/Rashyon Daga.md",
-    "Characters/HA Questgiver 2.md",
+    "Characters/Ester.md",
+    "Characters/Daon.md",
+    "Characters/Azura.md",
     "Characters/HA Questgiver 1.md",
-    "Quests/House Azura/HAQ1.md",
+    "Quests/Main/Loose Ends From Old Outline.md",
+    "Quests/Main/MQ1 - Dream of Fire.md",
+    "Quests/Mages Guild/MGQ1.md",
+    "Quests/Main/MQ4.md",
+    "Factions/Ouag Tong.md",
+    "Factions/Mages Guild.md",
+    "Factions/House Azura.md",
+    "Lore/Races/Ouamer.md",
+    "Factions/Azuran Rosery.md",
     "Characters/Aesmandroth.md",
+    "Characters/HA Questgiver 2.md",
+    "Locations/Oblivion/Infernace.md",
+    "Lore/Daedra/Chthonach.md",
+    "Lore/Daedra",
+    "Locations/Ships/Nepenthe.md",
+    "Lore/Magic/Chirurgy.md",
+    "Lore/Magic",
+    "Quests/Mages Guild",
+    "Characters/Magister Laarie.md",
+    "Characters/Magister Zalaster.md",
+    "Locations/Dor Dalla.md",
+    "Factions/Mages Guild",
+    "Factions",
     "Quests/House Azura/HAQ2.md",
-    "Quests/Side/Azura City/Standing Tall.md",
+    "Quests/House Azura/HAQ1.md",
     "README.md",
-    "Quests/Side/Azura City/Belly of the Beast.md",
-    "Quests/Side/Azura City/A Slave Obeys.md",
-    "Quests/Side/Azura City/Dusk Comes Before Dawn.md",
-    "Quests/Side/Azura City/On the Other Foot.md",
-    "Quests/Side/Azura City/The Quayside Tavern.md",
+    "Locations/Ships",
+    "Quests/Main/MQ2 - Nepenthe.md",
     "ZZZ Images/On the Other Foot - Image 1.png",
     "ZZZ Images",
     "Pasted image 20240209220331.png",
     "Quests/Side/Azura City",
     "Untitled.canvas",
     "Untitled 2",
-    "Untitled 1",
-    "Locations/Oblivion/Aesmandroth's Realm.md",
-    "Quests/Side",
-    "Locations/Oblivion",
-    "Locations",
-    "Lore",
-    "Lore/Races",
-    "Characters/NPCs",
-    "Welcome.md"
+    "Untitled 1"
   ]
 }
