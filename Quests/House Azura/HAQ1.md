@@ -2,7 +2,5 @@ Busy work (not MQ focused): HA Questgiver says that a noble in the manor distric
 
 HA Questgiver asks if you're interested in joining HA as a hireling because of your excellent work. He has more important work than just being a strongarm but he needs your agreement to adhere to the laws of the House.
 
-He wants you to deliver a message, but more importantly introduce yourself to an individual in the Rosery. The prophet, Rashyon Daga. Who you know is important in Azura!
-
 Next: [[HAQ2]]
 

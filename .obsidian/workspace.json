@@ -121,14 +121,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quests/Side/Azura City/Standing Tall.md",
-                "mode": "preview",
+                "file": "Characters/Aesmandroth.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9da328dc96fe682d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/HA Questgiver 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dc8975286a0a272c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quests/Main/MQ4.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -194,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quests/Side/Azura City/Standing Tall.md",
+                "file": "Quests/Main/MQ4.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quests/Side/Azura City/Standing Tall.md",
+                "file": "Quests/Main/MQ4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quests/Side/Azura City/Standing Tall.md"
+                "file": "Quests/Main/MQ4.md"
               }
             }
           }
@@ -255,11 +279,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c61b0cbf3e7c710",
+  "active": "dc8975286a0a272c",
   "lastOpenFiles": [
+    "Quests/Main/MQ3.md",
+    "Quests/Main/MQ2 - Nepenthe.md",
+    "Quests/Main/MQ1 - Dream of Fire.md",
+    "Quests/Main/MQ4.md",
+    "Lore/Races/Nolmer.md",
+    "Characters/Rashyon Daga.md",
+    "Characters/HA Questgiver 2.md",
+    "Characters/HA Questgiver 1.md",
+    "Quests/House Azura/HAQ1.md",
+    "Characters/Aesmandroth.md",
+    "Quests/House Azura/HAQ2.md",
+    "Quests/Side/Azura City/Standing Tall.md",
     "README.md",
     "Quests/Side/Azura City/Belly of the Beast.md",
-    "Quests/Side/Azura City/Standing Tall.md",
     "Quests/Side/Azura City/A Slave Obeys.md",
     "Quests/Side/Azura City/Dusk Comes Before Dawn.md",
     "Quests/Side/Azura City/On the Other Foot.md",
@@ -267,25 +302,17 @@
     "ZZZ Images/On the Other Foot - Image 1.png",
     "ZZZ Images",
     "Pasted image 20240209220331.png",
-    "Quests/House Azura/HAQ1.md",
     "Quests/Side/Azura City",
     "Untitled.canvas",
     "Untitled 2",
     "Untitled 1",
     "Locations/Oblivion/Aesmandroth's Realm.md",
     "Quests/Side",
-    "Characters/Aesmandroth.md",
     "Locations/Oblivion",
     "Locations",
-    "Lore/Races/Nolmer.md",
     "Lore",
     "Lore/Races",
     "Characters/NPCs",
-    "Quests/Main/MQ4.md",
-    "Quests/Main/MQ3.md",
-    "Quests/Main/MQ2 - Nepenthe.md",
-    "Quests/Main/MQ1 - Dream of Fire.md",
-    "Quests/House Azura/HAQ2.md",
     "Welcome.md"
   ]
 }
