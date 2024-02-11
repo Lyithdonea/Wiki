@@ -114,9 +114,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4c61b0cbf3e7c710",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quests/Side/Azura City/Standing Tall.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quests/Side/Azura City/A Slave Obeys.md",
+                "file": "Quests/Side/Azura City/Standing Tall.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quests/Side/Azura City/A Slave Obeys.md",
+                "file": "Quests/Side/Azura City/Standing Tall.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quests/Side/Azura City/A Slave Obeys.md"
+                "file": "Quests/Side/Azura City/Standing Tall.md"
               }
             }
           }
@@ -243,10 +255,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "653f445b4b80d606",
+  "active": "4c61b0cbf3e7c710",
   "lastOpenFiles": [
-    "Quests/Side/Azura City/Dusk Comes Before Dawn.md",
+    "README.md",
+    "Quests/Side/Azura City/Belly of the Beast.md",
+    "Quests/Side/Azura City/Standing Tall.md",
     "Quests/Side/Azura City/A Slave Obeys.md",
+    "Quests/Side/Azura City/Dusk Comes Before Dawn.md",
     "Quests/Side/Azura City/On the Other Foot.md",
     "Quests/Side/Azura City/The Quayside Tavern.md",
     "ZZZ Images/On the Other Foot - Image 1.png",
