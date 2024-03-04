@@ -8,67 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6409e46eb5a7c184",
+            "id": "3d726eba64fdb26e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Aesmandroth.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c20dc2d262aa17c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Magic/Chirurgy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "057204ca22f4c8b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quests/Mages Guild/MGQ1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b996d983114d78f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Oblivion/Aesmandroth's Realm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1145e5b3fbc67aaa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Airan.md",
+                "file": "Lore/Literature/Dreugh Creation Myth (Fragment).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Airan.md",
+                "file": "Lore/Literature/Dreugh Creation Myth (Fragment).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Airan.md",
+                "file": "Lore/Literature/Dreugh Creation Myth (Fragment).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Airan.md"
+                "file": "Lore/Literature/Dreugh Creation Myth (Fragment).md"
               }
             }
           }
@@ -195,46 +146,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1145e5b3fbc67aaa",
+  "active": "3d726eba64fdb26e",
   "lastOpenFiles": [
+    "Lore/Literature/Elves of the Southern Isles.md",
+    "Lore/Literature/Dreugh Creation Myth (Fragment).md",
+    "Factions/Ouag Tong.md",
+    "Lore/Literature/Notes on the Ouag Tong.md",
+    "Lore/Races/Maormer.md",
+    "Lore/Races/Chimer.md",
+    "Lore/Races/Dreugh.md",
+    "Quests/Ouag Tong/OTQ1.md",
+    "Lore/Literature/The Nautican.md",
+    "Quests/Ouag Tong/OTQ6.md",
+    "Lore/Literature",
+    "Quests/Ouag Tong/OTQ5.md",
+    "Quests/Ouag Tong/OTQ4.md",
+    "Quests/Ouag Tong/OTQ3.md",
+    "Quests/Ouag Tong/OTQ2.md",
+    "Quests/House Azura/HAQ1.md",
+    "Lore/Language/Chimeri.md",
+    "Factions/Mages Guild.md",
+    "Lore/Races/Ouamer.md",
+    "Lore/Language",
+    "Locations/Dor Dalla.md",
+    "Quests/Ouag Tong",
+    "Locations/Lyithdonea.md",
+    "Lore/Magic/Barrier.md",
+    "Lore/Races/Nolmer.md",
+    "Locations/Lyithdonea",
+    "Locations/Landmasses",
+    "Characters/Airan.md",
     "Characters/Aesmandroth.md",
     "Locations/Oblivion/Moonshadow.md",
     "Locations/Oblivion/Infernace.md",
-    "Characters/Airan.md",
-    "Characters/Azura.md",
-    "Locations/Oblivion/Aesmandroth's Realm.md",
-    "Quests/Mages Guild/MGQ1.md",
-    "Lore/Magic/Barrier.md",
-    "Factions/Mages Guild.md",
-    "Factions/Ouag Tong.md",
-    "Lore/Daedra/Chthonach.md",
-    "Lore/Magic/Chirurgy.md",
-    "Characters/Dather Dols.md",
-    "Characters/Luunel.md",
-    "Characters/Morodroon.md",
-    "Characters/Magister Crim.md",
-    "Characters/HA Questgiver 2.md",
-    "Characters/HA Questgiver 1.md",
-    "Characters/Gaulorn.md",
-    "Characters/Magister Jemusette Loche.md",
-    "Characters/Magister Jusenna.md",
-    "Characters/Magister Reeh-Fen.md",
-    "Characters/Magister Zalaster.md",
-    "Characters/Rashyon Daga.md",
-    "Characters/Magister Laarie.md",
-    "Quests/Side/Azura City/The Quayside Tavern.md",
     "Lore/Daedra",
     "Lore/Magic",
     "Quests/Mages Guild",
     "Factions/Mages Guild",
     "Factions",
-    "Locations/Ships",
     "ZZZ Images/On the Other Foot - Image 1.png",
-    "ZZZ Images",
     "Pasted image 20240209220331.png",
-    "Quests/Side/Azura City",
-    "Untitled.canvas",
-    "Untitled 2",
-    "Untitled 1"
+    "Untitled.canvas"
   ]
 }

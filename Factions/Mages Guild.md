@@ -1,4 +1,4 @@
-**Ranks:**
+#### Ranks
 * Associate
 * Apprentice
 * Journeyman
@@ -14,10 +14,10 @@
 * Tender
 * Palatinus
 
-**Motivations (Main Storyline):**
+#### Motivations (Main Storyline)
 The guild of mages is primarily interested in the conflict from an academic perspective. They are highly interested in the polyliths and the metaphysical implications of a daedric conflict. They care little for the internal chimer politics as long as it doesn’t affect their charter to stay on the isles to conduct study.
 
-**Members:**
+#### Members
 
 | Name                              | Race     | Gender | Location  | Sub-Location               | Role/Class               |
 | --------------------------------- | -------- | ------ | --------- | -------------------------- | ------------------------ |
