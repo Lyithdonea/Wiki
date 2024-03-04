@@ -37,14 +37,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Magic/Barriers.md",
+                "file": "Quests/Mages Guild/MGQ1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b996d983114d78f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Oblivion/Aesmandroth's Realm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1145e5b3fbc67aaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Airan.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/Magic/Barriers.md",
+                "file": "Characters/Airan.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore/Magic/Barriers.md",
+                "file": "Characters/Airan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/Magic/Barriers.md"
+                "file": "Characters/Airan.md"
               }
             }
           }
@@ -171,16 +195,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "057204ca22f4c8b4",
+  "active": "1145e5b3fbc67aaa",
   "lastOpenFiles": [
-    "Lore/Daedra/Chthonach.md",
-    "Lore/Magic/Barriers.md",
-    "Lore/Magic/Chirurgy.md",
     "Characters/Aesmandroth.md",
+    "Locations/Oblivion/Moonshadow.md",
+    "Locations/Oblivion/Infernace.md",
+    "Characters/Airan.md",
+    "Characters/Azura.md",
+    "Locations/Oblivion/Aesmandroth's Realm.md",
     "Quests/Mages Guild/MGQ1.md",
+    "Lore/Magic/Barrier.md",
     "Factions/Mages Guild.md",
-    "Characters/Dather Dols.md",
     "Factions/Ouag Tong.md",
+    "Lore/Daedra/Chthonach.md",
+    "Lore/Magic/Chirurgy.md",
+    "Characters/Dather Dols.md",
     "Characters/Luunel.md",
     "Characters/Morodroon.md",
     "Characters/Magister Crim.md",
@@ -194,11 +223,6 @@
     "Characters/Rashyon Daga.md",
     "Characters/Magister Laarie.md",
     "Quests/Side/Azura City/The Quayside Tavern.md",
-    "Quests/Side/Azura City/Standing Tall.md",
-    "Quests/Side/Azura City/On the Other Foot.md",
-    "Quests/Side/Azura City/A Slave Obeys.md",
-    "Quests/Side/Azura City/Belly of the Beast.md",
-    "Quests/Side/Azura City/Dusk Comes Before Dawn.md",
     "Lore/Daedra",
     "Lore/Magic",
     "Quests/Mages Guild",
