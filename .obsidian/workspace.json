@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Aesmandroth.md",
+                "file": "Lore/Magic/Chirurgy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "057204ca22f4c8b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Magic/Barriers.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Aesmandroth.md",
+                "file": "Lore/Magic/Barriers.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Aesmandroth.md",
+                "file": "Lore/Magic/Barriers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Aesmandroth.md"
+                "file": "Lore/Magic/Barriers.md"
               }
             }
           }
@@ -159,9 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c20dc2d262aa17c",
+  "active": "057204ca22f4c8b4",
   "lastOpenFiles": [
+    "Lore/Daedra/Chthonach.md",
+    "Lore/Magic/Barriers.md",
     "Lore/Magic/Chirurgy.md",
+    "Characters/Aesmandroth.md",
     "Quests/Mages Guild/MGQ1.md",
     "Factions/Mages Guild.md",
     "Characters/Dather Dols.md",
@@ -173,7 +188,6 @@
     "Characters/HA Questgiver 1.md",
     "Characters/Gaulorn.md",
     "Characters/Magister Jemusette Loche.md",
-    "Characters/Aesmandroth.md",
     "Characters/Magister Jusenna.md",
     "Characters/Magister Reeh-Fen.md",
     "Characters/Magister Zalaster.md",
@@ -185,8 +199,6 @@
     "Quests/Side/Azura City/A Slave Obeys.md",
     "Quests/Side/Azura City/Belly of the Beast.md",
     "Quests/Side/Azura City/Dusk Comes Before Dawn.md",
-    "Characters/Daon.md",
-    "Characters/Ester.md",
     "Lore/Daedra",
     "Lore/Magic",
     "Quests/Mages Guild",
