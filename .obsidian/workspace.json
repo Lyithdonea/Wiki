@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b5b32d47ffd2db7d",
+        "id": "602f7c5bd8aecb60",
         "type": "tabs",
         "children": [
           {
-            "id": "3d726eba64fdb26e",
+            "id": "916acd13efd06826",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Literature/Dreugh Creation Myth (Fragment).md",
+                "file": "Characters/Azura.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/Literature/Dreugh Creation Myth (Fragment).md",
+                "file": "Characters/Azura.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,10 +102,18 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore/Literature/Dreugh Creation Myth (Fragment).md",
+                "file": "Characters/Azura.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            }
+          },
+          {
+            "id": "3d726eba64fdb26e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -115,7 +123,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/Literature/Dreugh Creation Myth (Fragment).md"
+                "file": "Characters/Azura.md"
               }
             }
           }
@@ -134,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 558.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,14 +154,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3d726eba64fdb26e",
+  "active": "916acd13efd06826",
   "lastOpenFiles": [
-    "Lore/Literature/Elves of the Southern Isles.md",
-    "Lore/Literature/Dreugh Creation Myth (Fragment).md",
+    "Lore/Literature/Azura the Angel.md",
+    "Characters/Azura.md",
+    "Characters/Magister Crim.md",
+    "Lore/Races/Chimer.md",
+    "Factions/Mages Guild.md",
     "Factions/Ouag Tong.md",
+    "Lore/Literature/Dreugh Creation Myth (Fragment).md",
+    "Lore/Literature/Elves of the Southern Isles.md",
     "Lore/Literature/Notes on the Ouag Tong.md",
     "Lore/Races/Maormer.md",
-    "Lore/Races/Chimer.md",
     "Lore/Races/Dreugh.md",
     "Quests/Ouag Tong/OTQ1.md",
     "Lore/Literature/The Nautican.md",
@@ -165,7 +177,6 @@
     "Quests/Ouag Tong/OTQ2.md",
     "Quests/House Azura/HAQ1.md",
     "Lore/Language/Chimeri.md",
-    "Factions/Mages Guild.md",
     "Lore/Races/Ouamer.md",
     "Lore/Language",
     "Locations/Dor Dalla.md",
@@ -176,9 +187,6 @@
     "Locations/Lyithdonea",
     "Locations/Landmasses",
     "Characters/Airan.md",
-    "Characters/Aesmandroth.md",
-    "Locations/Oblivion/Moonshadow.md",
-    "Locations/Oblivion/Infernace.md",
     "Lore/Daedra",
     "Lore/Magic",
     "Quests/Mages Guild",
