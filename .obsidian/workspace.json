@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "73f950b9b42912b4",
+        "id": "b5b32d47ffd2db7d",
         "type": "tabs",
         "children": [
           {
-            "id": "8db266de90ba6d0d",
+            "id": "6409e46eb5a7c184",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Daon.md",
+                "file": "Characters/Aesmandroth.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c20dc2d262aa17c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Aesmandroth.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Daon.md",
+                "file": "Characters/Aesmandroth.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Daon.md",
+                "file": "Characters/Aesmandroth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Daon.md"
+                "file": "Characters/Aesmandroth.md"
               }
             }
           }
@@ -146,40 +159,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8db266de90ba6d0d",
+  "active": "1c20dc2d262aa17c",
   "lastOpenFiles": [
-    "Characters/Ester.md",
-    "Characters/Daon.md",
-    "Characters/Azura.md",
-    "Characters/HA Questgiver 1.md",
-    "Quests/Main/Loose Ends From Old Outline.md",
-    "Quests/Main/MQ1 - Dream of Fire.md",
-    "Quests/Mages Guild/MGQ1.md",
-    "Quests/Main/MQ4.md",
-    "Factions/Ouag Tong.md",
-    "Factions/Mages Guild.md",
-    "Factions/House Azura.md",
-    "Lore/Races/Ouamer.md",
-    "Factions/Azuran Rosery.md",
-    "Characters/Aesmandroth.md",
-    "Characters/HA Questgiver 2.md",
-    "Locations/Oblivion/Infernace.md",
-    "Lore/Daedra/Chthonach.md",
-    "Lore/Daedra",
-    "Locations/Ships/Nepenthe.md",
     "Lore/Magic/Chirurgy.md",
+    "Quests/Mages Guild/MGQ1.md",
+    "Factions/Mages Guild.md",
+    "Characters/Dather Dols.md",
+    "Factions/Ouag Tong.md",
+    "Characters/Luunel.md",
+    "Characters/Morodroon.md",
+    "Characters/Magister Crim.md",
+    "Characters/HA Questgiver 2.md",
+    "Characters/HA Questgiver 1.md",
+    "Characters/Gaulorn.md",
+    "Characters/Magister Jemusette Loche.md",
+    "Characters/Aesmandroth.md",
+    "Characters/Magister Jusenna.md",
+    "Characters/Magister Reeh-Fen.md",
+    "Characters/Magister Zalaster.md",
+    "Characters/Rashyon Daga.md",
+    "Characters/Magister Laarie.md",
+    "Quests/Side/Azura City/The Quayside Tavern.md",
+    "Quests/Side/Azura City/Standing Tall.md",
+    "Quests/Side/Azura City/On the Other Foot.md",
+    "Quests/Side/Azura City/A Slave Obeys.md",
+    "Quests/Side/Azura City/Belly of the Beast.md",
+    "Quests/Side/Azura City/Dusk Comes Before Dawn.md",
+    "Characters/Daon.md",
+    "Characters/Ester.md",
+    "Lore/Daedra",
     "Lore/Magic",
     "Quests/Mages Guild",
-    "Characters/Magister Laarie.md",
-    "Characters/Magister Zalaster.md",
-    "Locations/Dor Dalla.md",
     "Factions/Mages Guild",
     "Factions",
-    "Quests/House Azura/HAQ2.md",
-    "Quests/House Azura/HAQ1.md",
-    "README.md",
     "Locations/Ships",
-    "Quests/Main/MQ2 - Nepenthe.md",
     "ZZZ Images/On the Other Foot - Image 1.png",
     "ZZZ Images",
     "Pasted image 20240209220331.png",
