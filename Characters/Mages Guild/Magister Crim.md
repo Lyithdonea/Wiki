@@ -5,7 +5,7 @@
 [[Dor Dalla]], Guild of Mages
 
 **Background:**
-Alchemy/Zoology/Restoration/Chirurgy/Vampire/Blood Magic/Flesh Magic
+Alchemy/Zoology/Restoration/[[Chirurgy]]/Vampire/Blood Magic/Flesh Magic
 
 **Personality:**
 TBD

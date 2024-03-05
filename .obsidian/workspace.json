@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quests/Ouag Tong/OTQ6.md",
+                "file": "Characters/Mages Guild/Magister Crim.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quests/Ouag Tong/OTQ6.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quests/Ouag Tong/OTQ6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Quests/Ouag Tong/OTQ6.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -142,7 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 528.5
+    "width": 586.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,8 +150,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "916acd13efd06826",
+  "active": "e0d5e25f36cb4210",
   "lastOpenFiles": [
+    "Characters/Mages Guild/Magister Crim.md",
+    "Quests/Side/Azura City/The Quayside Tavern.md",
+    "Quests/Side/Azura City/Standing Tall.md",
+    "Quests/Side/Azura City/On the Other Foot.md",
+    "Quests/Side/Azura City/Dusk Comes Before Dawn.md",
+    "Quests/Side/Azura City/Belly of the Beast.md",
+    "Quests/Side/Azura City/A Slave Obeys.md",
+    "Quests/Ouag Tong/OTQ6.md",
     "Factions/Padomaic Pirates.md",
     "Quests/Ouag Tong/OTQ5.md",
     "Quests/Ouag Tong/OTQ4.md",
@@ -174,14 +178,6 @@
     "Quests/House Azura/HAQ2.md",
     "Quests/House Azura/HAQ1.md",
     "Locations/Tarshon.md",
-    "Locations/Bnay.md",
-    "Vuldo.md",
-    "Locations/Jubuka'im Farm.md",
-    "Lore/Races/Sload.md",
-    "Lore/Races/Ouamer.md",
-    "Lore/Races/Nolmer.md",
-    "Lore/Races/Maormer.md",
-    "Lore/Races/Dreugh.md",
     "Characters/Historical",
     "Characters/Rosery of Azura",
     "Characters/Nolmer",
