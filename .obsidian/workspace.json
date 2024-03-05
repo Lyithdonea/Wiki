@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Lyithdonea.md",
+                "file": "Factions/Mages Guild.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Lyithdonea.md",
+                "file": "Factions/Mages Guild.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Lyithdonea.md",
+                "file": "Factions/Mages Guild.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Lyithdonea.md"
+                "file": "Factions/Mages Guild.md"
               }
             }
           }
@@ -156,42 +156,42 @@
   },
   "active": "916acd13efd06826",
   "lastOpenFiles": [
+    "Lore/Language/Chimeri.md",
+    "Locations/Oblivion/Moonshadow.md",
+    "Characters/Azura.md",
+    "Lore/Flora/Roses.md",
+    "Locations/Lyithdonea.md",
+    "Lore/Flora",
+    "Locations/Oblivion/Infernace.md",
+    "Quests/Side/Quest Prompts.md",
+    "Lore/Metaphysics/Towers.md",
+    "Characters/Veloth.md",
+    "Lore/Metaphysics",
+    "Lore/Magic/Creatia.md",
+    "Locations/Aurbis.md",
+    "Characters/Ideas/Professions.md",
+    "Lore/Language/Maormeri.md",
+    "Quests/Mages Guild/MGQ1.md",
+    "Quests/Ouag Tong/OTQ6.md",
+    "Quests/Ouag Tong/OTQ5.md",
+    "Characters/Aesmandroth.md",
+    "Characters/Ideas",
     "Locations/Dor Dalla.md",
+    "Factions/Ratcatcher's Guild.md",
+    "Characters/Ester.md",
+    "Characters/Profession Prompts",
     "Lore/Literature/Azura the Angel.md",
     "Lore/Literature/Notes on the Ouag Tong.md",
     "Lore/Literature/The Nautican.md",
     "Lore/Literature/The Translation.md",
-    "Locations/Lyithdonea.md",
     "Lore/Races/Nolmer.md",
     "Lore/Races/Ouamer.md",
-    "Quests/Ouag Tong/OTQ6.md",
-    "Lore/Races/Sload.md",
-    "Lore/Races/Maormer.md",
-    "Lore/Magic/Cephalomancy.md",
-    "Quests/Ouag Tong/OTQ5.md",
-    "Characters/Magister Laarie.md",
-    "Characters/Magister Zalaster.md",
-    "Characters/Leifid.md",
-    "Characters/Apinda Minnus.md",
-    "Factions/Mages Guild.md",
-    "Characters/Lorent Brumarc.md",
-    "Characters/Chet.md",
-    "Characters/Morodroon.md",
-    "Characters/Magister Jemusette Loche.md",
-    "Characters/Magister Jusenna.md",
-    "Characters/Magister Reeh-Fen.md",
-    "Characters/Palatinus Medius.md",
-    "Characters/Magister Crim.md",
     "Lore/Literature",
     "Lore/Language",
     "Quests/Ouag Tong",
     "Locations/Lyithdonea",
     "Locations/Landmasses",
     "Lore/Daedra",
-    "Lore/Magic",
-    "Quests/Mages Guild",
-    "Factions/Mages Guild",
-    "Factions",
     "ZZZ Images/On the Other Foot - Image 1.png",
     "Pasted image 20240209220331.png",
     "Untitled.canvas"

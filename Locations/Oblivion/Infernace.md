@@ -8,3 +8,7 @@ The clan structure of Infernace is unknown, and no hierarchy has been observed d
 The ancient [Chimer](https://en.uesp.net/wiki/Lore:Chimer "Lore:Chimer") used ensorcelled gates to conjure atronach from Infernace.
 ### AZ
 By nature of not having a direct Prince presiding over it, doors to Oblivion are often opened to collective realms like Infernace as a starting point from Mundus as its boundaries are easier to pierce.
+
+The elemental planes are constantly shifting, disappearing, reappearing due to the fact that they are based on influxes (flows, rivers, streams) of magicka (creatia) from the Aetherius. They are incredibly magickal and dangerous to outsiders. When an elemental plane fades out, the Atronachs must migrate to a new location, a very dynamic environment.
+
+Type of enemy is the Flare (a flame spirit)

@@ -14,6 +14,7 @@
 * Tender
 * Palatinus
 
+> As begun by Vanus Galerion, the Mages Guild as an institution is presided over by a supreme council of six Archmagisters. Each Guildhall is run by a Guildmagister, assisted by a twofold counsel, the Master of Incunabula and the Master at Arms. The Master of Incunabula presides over an additional counsel of two mages, the Master of Academia and the Master of the Scrye. The Master at Arms also has a counsel of two, the Master of Initiates and the Palatinus, the leader of the local chapter of the Order of the Lamp.
 #### Motivations (Main Storyline)
 The guild of mages is primarily interested in the conflict from an academic perspective. They are highly interested in the polyliths and the metaphysical implications of a daedric conflict. They care little for the internal chimer politics as long as it doesn’t affect their charter to stay on the isles to conduct study.
 

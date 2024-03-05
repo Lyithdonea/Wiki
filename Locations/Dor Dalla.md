@@ -1,0 +1,1 @@
+The island which the [[Mages Guild]] campus is located in [[Lyithdonea]].

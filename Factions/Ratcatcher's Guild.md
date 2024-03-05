@@ -1,0 +1,1 @@
+Joinable Thieves Guild analog. They function out of the Azura City underworks. The ratcatching is a front for some illegal activities. They're kind of the crime syndicate in Lyithdonea, but like the TG, they have some semblance of honor.

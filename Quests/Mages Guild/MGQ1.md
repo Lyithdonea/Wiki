@@ -1,6 +1,6 @@
 [[Mages Guild]] is mainly here to study the interesting feature of this archipelago that the barriers seem to be relatively loose between it and Oblivion (the 6th barrier).
 
-[[Magister Jusenna]] and [[Magister Reeh-Fen]] are interested in the Shrine of the 9th [[Barrier]].
+[[Magister Jusenna]] and [[Magister Reeh-Fen]] are interested in the Shrine of the 9th [[Barrier]]. The shrine is known as the Starwell on Starmount, where the player can gather creatia.
 
 Have the player clean up alchemy spills in the alchemy lab.
 
