@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Leifid.md",
+                "file": "Characters/Magister Laarie.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Leifid.md",
+                "file": "Characters/Magister Laarie.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Leifid.md",
+                "file": "Characters/Magister Laarie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Leifid.md"
+                "file": "Characters/Magister Laarie.md"
               }
             }
           }
@@ -155,7 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 611.5
+    "width": 528.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,13 +169,13 @@
   },
   "active": "e0d5e25f36cb4210",
   "lastOpenFiles": [
-    "Characters/Apinda Minnus.md",
+    "Characters/Magister Zalaster.md",
     "Characters/Leifid.md",
+    "Characters/Apinda Minnus.md",
     "Factions/Mages Guild.md",
     "Characters/Lorent Brumarc.md",
     "Characters/Chet.md",
     "Characters/Morodroon.md",
-    "Characters/Magister Zalaster.md",
     "Characters/Magister Jemusette Loche.md",
     "Characters/Magister Jusenna.md",
     "Characters/Magister Laarie.md",
