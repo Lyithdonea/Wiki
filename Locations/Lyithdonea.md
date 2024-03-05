@@ -1,0 +1,2 @@
+### Origins
+House Azura legend states that Azura herself raised the isles out of the ocean and populated them with unique life. Read more in [[The Translation]]. The Khajiit would say "this is just like Azurah, taking credit for her littermate Nirni's beauty."
