@@ -1,4 +1,4 @@
-Chimeri is very similar to Dunmeri. Sharing many words.
+Language of the [[Chimer]]. Chimeri is very similar to Dunmeri. Sharing many words. The Lyithdonea dialect merges many daedric words into their naming conventions.
 
 | Word       | Translation   |
 | ---------- | ------------- |
@@ -6,6 +6,6 @@ Chimeri is very similar to Dunmeri. Sharing many words.
 | Lyithdonea | ???           |
 ### Phrases
 
-| Phrase         | Meaning                                                                                                                                               |
-| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Under the rose | basically means secrecy or confidentiality. Use in a sentence could be: “what I tell you now is under the rose” or “keep this under the rose, friend” |
+| Phrase             | Meaning                                                                                                                                               |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Under the [[rose]] | basically means secrecy or confidentiality. Use in a sentence could be: “what I tell you now is under the rose” or “keep this under the rose, friend” |

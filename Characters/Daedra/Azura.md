@@ -10,7 +10,7 @@ Azura is associated with artistic expression.
 
 So Azura is also patron of magic, fate, and prophecy.
 
-> Azura is the Lord of Moonshadow, whose sphere is dusk and dawn, the magic in-between realms of twilight.
+> Azura is the Lord of [[Moonshadow]], whose sphere is dusk and dawn, the magic in-between realms of twilight.
 
 > Azura is the Daedra of dusk and dawn, transition periods. One might argue that she is at her strongest during these moments however this does not in itself explain why she could change the Dunmer so drastically. To do almost anything on this magnitude every other Daedra needs to be present in person. Thing is, she's done this before. When Mundus was still in the chaos of the Dawn and everything was stuck between plant and mer, she provided a stable form for the Khajiit.
 > 

@@ -5,6 +5,6 @@ Next: [[MQ2 - Nepenthe]]
 Locations: 
 * Vvardenfell, Shrine of Azura
 * [[Infernace]], Ruins of Calescence
-* Inner Sea, Nepenthe
-* Nepenthe, Cabin
-* Nepenthe, Lower Deck
+* Inner Sea, [[Nepenthe]]
+* [[Nepenthe]], Cabin
+* [[Nepenthe]], Lower Deck

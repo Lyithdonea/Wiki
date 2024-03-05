@@ -1,4 +1,3 @@
-
 #### Real World History of the Rose:
 - the rose is linked to love, beauty, purity and passion
 - roses can also represent pain, suffering and death.
