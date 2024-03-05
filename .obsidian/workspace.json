@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Azura.md",
+                "file": "Characters/Leifid.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e0d5e25f36cb4210",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Leifid.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Azura.md",
+                "file": "Characters/Leifid.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Azura.md",
+                "file": "Characters/Leifid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Azura.md"
+                "file": "Characters/Leifid.md"
               }
             }
           }
@@ -142,25 +155,36 @@
       }
     ],
     "direction": "horizontal",
-    "width": 558.5
+    "width": 611.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "916acd13efd06826",
+  "active": "e0d5e25f36cb4210",
   "lastOpenFiles": [
-    "Lore/Literature/Azura the Angel.md",
-    "Characters/Azura.md",
-    "Characters/Magister Crim.md",
-    "Lore/Races/Chimer.md",
+    "Characters/Apinda Minnus.md",
+    "Characters/Leifid.md",
     "Factions/Mages Guild.md",
+    "Characters/Lorent Brumarc.md",
+    "Characters/Chet.md",
+    "Characters/Morodroon.md",
+    "Characters/Magister Zalaster.md",
+    "Characters/Magister Jemusette Loche.md",
+    "Characters/Magister Jusenna.md",
+    "Characters/Magister Laarie.md",
+    "Characters/Magister Reeh-Fen.md",
+    "Characters/Palatinus Medius.md",
+    "Characters/Magister Crim.md",
+    "Characters/Azura.md",
+    "Lore/Literature/Azura the Angel.md",
+    "Lore/Races/Chimer.md",
     "Factions/Ouag Tong.md",
     "Lore/Literature/Dreugh Creation Myth (Fragment).md",
     "Lore/Literature/Elves of the Southern Isles.md",
@@ -172,21 +196,10 @@
     "Quests/Ouag Tong/OTQ6.md",
     "Lore/Literature",
     "Quests/Ouag Tong/OTQ5.md",
-    "Quests/Ouag Tong/OTQ4.md",
-    "Quests/Ouag Tong/OTQ3.md",
-    "Quests/Ouag Tong/OTQ2.md",
-    "Quests/House Azura/HAQ1.md",
-    "Lore/Language/Chimeri.md",
-    "Lore/Races/Ouamer.md",
     "Lore/Language",
-    "Locations/Dor Dalla.md",
     "Quests/Ouag Tong",
-    "Locations/Lyithdonea.md",
-    "Lore/Magic/Barrier.md",
-    "Lore/Races/Nolmer.md",
     "Locations/Lyithdonea",
     "Locations/Landmasses",
-    "Characters/Airan.md",
     "Lore/Daedra",
     "Lore/Magic",
     "Quests/Mages Guild",

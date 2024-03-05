@@ -1,11 +1,11 @@
 **Faction:**
-[[Mages Guild]], Master of the Scrye
+[[Mages Guild]], Student
 
 **Location:** 
 [[Dor Dalla]], Pneumological Studies
 
 **Background:**
-Mysticism/Conjuration/Divination. Counsels Master of Incunabula.
+Focus: Enchanting
 
 **Personality:**
 TBD

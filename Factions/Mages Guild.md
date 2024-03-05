@@ -28,7 +28,7 @@ The guild of mages is primarily interested in the conflict from an academic pers
 | [[Magister Jusenna]]              | Dark Elf | Female | Dor Dalla | Pneumological Studies      | Master of the Scrye      |
 | [[Magister Crim]]                 | Redguard | Male   | Dor Dalla | Guild of Mages             | Master of Initiates      |
 | Durmash gro-Aglakh                | Orc      | Male   | Dor Dalla | Guild of Mages             | Guild Guide              |
-| Palatinus Medius                  | Imperial | Male   | Dor Dalla | Order of the Lamp Barracks | Palatinus                |
+| [[Palatinus Medius]]              | Imperial | Male   | Dor Dalla | Order of the Lamp Barracks | Palatinus                |
 | Tender of the Lamp 01             | Nord     | Female | Dor Dalla | Exterior                   | Order of the Lamp Tender |
 | Tender of the Lamp 02             | Argonian | Female | Dor Dalla | Guild of Mages             | Order of the Lamp Tender |
 | Tender of the Lamp 03             | Dark Elf | Male   | Dor Dalla | Exterior                   | Order of the Lamp Tender |
@@ -37,10 +37,10 @@ The guild of mages is primarily interested in the conflict from an academic pers
 | [[Morodroon]]                     | High Elf | Male   | Dor Dalla | Mess Hall                  | Custodian                |
 | [[Luunel]]                        | Wood Elf | Female | Dor Dalla | Staff Quarters             | Cook                     |
 | [[Dather Dols]]                   | Dark Elf | Male   | Dor Dalla | Menagerie                  | Stable Boy               |
-| Chet                              | Redguard | Male   | Dor Dalla | Exterior                   | Student                  |
+| [[Chet]]                          | Redguard | Male   | Dor Dalla | Exterior                   | Student                  |
 | Ralora Dralom                     | Dunmer   | Female | Dor Dalla | Student Quarters           | Student                  |
 | Galmiroth                         | Wood Elf | Male   | Dor Dalla | Guild of Mages             | Student                  |
 | Arranni                           | Khajiit  | Female | Dor Dalla | Guild of Mages             | Student                  |
-| Lorent Brumarc                    | Breton   | Male   | Dor Dalla | Infirmary                  | Student                  |
-| Apinda Minnus                     | Imperial | Female | Dor Dalla | Exterior                   | Student                  |
-| Leifid                            | Nord     | Male   | Dor Dalla | Pneumological Studies      | Student                  |
+| [[Lorent Brumarc]]                | Breton   | Male   | Dor Dalla | Infirmary                  | Student                  |
+| [[Apinda Minnus]]                 | Imperial | Female | Dor Dalla | Exterior                   | Student                  |
+| [[Leifid]]                        | Nord     | Male   | Dor Dalla | Pneumological Studies      | Student                  |

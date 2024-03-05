@@ -8,4 +8,4 @@
 Destruction/Alteration
 
 **Personality:**
-TBD
+Prideful - Loche is a well-known family from High Rock.
