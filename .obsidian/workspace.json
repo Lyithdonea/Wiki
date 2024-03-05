@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Mages Guild/Magister Crim.md",
+                "file": "Characters/Refulgent Erudite.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Characters/Refulgent Erudite.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Characters/Refulgent Erudite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Characters/Refulgent Erudite.md"
+              }
             }
           }
         ],
@@ -150,44 +154,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e0d5e25f36cb4210",
+  "active": "916acd13efd06826",
   "lastOpenFiles": [
+    "Characters/Ouag Tong/OT Questgiver.md",
+    "Characters/House Azura/HA Questgiver 1.md",
+    "Characters/Mages Guild/Magister Jusenna.md",
+    "Characters/Azura City Commoner.md",
+    "Characters/Refulgent Erudite.md",
+    "Characters/Mages Guild/Magister Jemusette Loche.md",
+    "Characters/Mages Guild/Magister Zalaster.md",
+    "Characters/Mages Guild/Magister Reeh-Fen.md",
+    "Characters/Mages Guild/Magister Laarie.md",
+    "Factions/Mages Guild.md",
+    "Characters/Ouag Tong/Kilbucho Swift-keel.md",
+    "Characters/Vuldo.md",
+    "Characters/Ouag Tong",
+    "Factions/Ouag Tong.md",
+    "Locations/Ouashallath Island.md",
+    "Factions/Padomaic Pirates.md",
+    "Lore/Fauna/Kuro.md",
+    "Lore/Fauna/Inkwing.md",
+    "Quests/Side/Quest Prompts.md",
+    "Characters/Nolmer/Ester.md",
+    "Lore/Fauna",
+    "Quests/Side/Bnay/Arena Questline.md",
+    "Quests/Side/Wilderness/Targrip's Protonymic.md",
+    "Quests/Side/Bnay",
+    "Quests/Side/Wilderness",
+    "Lore/Language/Chimeri.md",
     "Characters/Mages Guild/Magister Crim.md",
     "Quests/Side/Azura City/The Quayside Tavern.md",
     "Quests/Side/Azura City/Standing Tall.md",
     "Quests/Side/Azura City/On the Other Foot.md",
-    "Quests/Side/Azura City/Dusk Comes Before Dawn.md",
-    "Quests/Side/Azura City/Belly of the Beast.md",
-    "Quests/Side/Azura City/A Slave Obeys.md",
-    "Quests/Ouag Tong/OTQ6.md",
-    "Factions/Padomaic Pirates.md",
-    "Quests/Ouag Tong/OTQ5.md",
-    "Quests/Ouag Tong/OTQ4.md",
-    "Quests/Ouag Tong/OTQ3.md",
-    "Lore/Language/Chimeri.md",
-    "Lore/Language/Maormeri.md",
-    "Quests/Ouag Tong/OTQ2.md",
-    "Quests/Ouag Tong/OTQ1.md",
-    "Quests/Main/MQ4.md",
-    "Quests/Main/MQ3.md",
-    "Quests/Main/MQ2 - Nepenthe.md",
-    "Locations/Ships/Nepenthe.md",
-    "Quests/Main/MQ1 - Dream of Fire.md",
-    "Quests/Main/Loose Ends From Old Outline.md",
-    "Quests/Mages Guild/MGQ1.md",
-    "Quests/House Azura/HAQ2.md",
-    "Quests/House Azura/HAQ1.md",
-    "Locations/Tarshon.md",
     "Characters/Historical",
     "Characters/Rosery of Azura",
     "Characters/Nolmer",
     "Characters/Mages Guild",
     "Characters/House Azura",
     "Characters/Daedra",
-    "Lore/Flora",
-    "Lore/Metaphysics",
-    "Characters/Ideas",
-    "Characters/Profession Prompts",
     "ZZZ Images/On the Other Foot - Image 1.png",
     "Pasted image 20240209220331.png",
     "Untitled.canvas"

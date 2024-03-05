@@ -11,3 +11,8 @@
 Each rank up in the guild gets you some special equipment mainly focused on allowing water breathing and increasing swift swim. And maybe the player could get some unique things (either as rewards or as treasures) which are scripted to be more potent underwater. Like a trident that fortifies attack underwater. Maybe I could hook into MGEXE for another facemask artifact which reduces the underwater fog. And then there is the cephalomancy skill line as well...
 #### Motivations (Main Storyline)
 Observation tells us that the Ouag Tong has no direct involvement with or concern in the brewing conflict. For one reason or another they watch.
+#### Members
+
+| Name                    | Race   | Gender | Location               | Sub-Location | Role/Class |
+| ----------------------- | ------ | ------ | ---------------------- | ------------ | ---------- |
+| [[Kilbucho Swift-keel]] | Chimer | Male   | [[Ouashallath Island]] | Exterior     | Sailor     |

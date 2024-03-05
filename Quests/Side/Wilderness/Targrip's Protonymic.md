@@ -1,0 +1,21 @@
+NEEDS REVIEW 
+
+- After descending to the Second-Half-Truths Caverns underneath the Isle of Dawn, the player learns of the Illuvitar, Targrip.
+- Targrip has been blessed by Azura with invulnerability, therefore he can only be defeated by uttering his protonymic.
+- The player can obtain the protonymic only by talking to four strange “creatures” he/she encounters while travelling through the caverns.
+- First Creature: The Climbing Rock, When the player approaches this “wall” it speaks to them saying: “Neophyte Neonymic, where is 1? The first is one, RESUM, to find the four leave the floor.” OK
+- The player must then activate the wall which will then warp (climb) them to the top of the cliff, where they continue on.
+- Second Creature: Whistle Wyrd, as the player approaches they see a small Bosmer man whistling (use the activator to replay the whistling sound over and over, so that it continues during dialogue) over an underground lake of water. When the player speaks to him this is what he says: “I see none, only one. The twin of first is second, ANAE; the winding whistle finds the bridge.”
+- The Bosmer takes a step towards the chasm, continuing to whistle. A pathway of stepping pillars appears across the lake.
+- Third Creature: Finger of God, the third creature is a rock pillar (use a Solstheim runed rock). It says this to the player: “Three is the devil devil devil, ALMSIVI, to ope the door, chant the death-key.”
+- The player then speaks “ALMSIVI” to the rock by activating it then displaying a messagebox. The Finger of God then falls backwards, revealing an entry to the darker depths of the caverns.
+- Fourth Creature: The Fourth Star, the last “creature” appears as a floating (script to move up, then down) star (use existing crystal mesh) in a very dark chamber, it is the only illumination. The Fourth Star says this: “The changing digit of final is 4, EN, The darkest darkness of the night sky is the trail to Oblivion.”
+- A new spell “Protonymic of Targrip” is added to the player’s spellbook.
+- The player must figure out that The Fourth Star’s riddle means to search the room for the “darkest” spot. This turns out to be a hole to crawl through in the ceiling.
+- After crawling through the hole, the player is left in a shadowy hall of pillars reaching up into the darkness (use Azuran Daedric Architecture, combined with ruinous rocks strewn about. Puffs of steam issue from the rock clusters.).
+- At the end of the hall, Targrip is standing on a pedestal of tangled roots, he does not attack.
+- Targrip: “Up wall, over water, through rock, and seeing darkness. You find me. Have you uncovered the other half of Her? This is to know, to know is to listen, to listen is to die. The Twilight Prince has gathered your mind to this place that you might die of listening to know. This is what you will know: Grey is the color of everything, change is the power of not-stasis, the devil devil devil creates a contrast, and AZURA EN: The Final Word is Azura.”
+- The only option after this is “goodbye”, then the player must cast the protonymic spell on Targrip when he begins attacking the player. With the spell effect on Targrip, messageboxes appear separately: “RESUM” “ANAE” “ALMSIVI” “EN” with the last syllable, EN, Targrip vanishes (cast an area frost spell at his death location). 
+- The only thing Targrip leaves behind is his Bandy Totem (use regular Bloodmoon totem, but place an Illuvitar scale on the end). The item does not need to be worn to receive its effects. It just needs to be in the player’s inventory.
+- Effects: Grey Void – Spell Absorption 30pts, Silence; Powerword: Fortify Speechcraft 20pts
+- To leave the Second-Half-Truths Caverns, the player just needs to take the totem. The player will then be dropped off near the entrance to the caves.

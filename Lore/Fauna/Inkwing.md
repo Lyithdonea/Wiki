@@ -1,0 +1,1 @@
+A non-sapient species from [[Moonshadow]] known for secreting an ink-like substance onto its wings leading to beautifully varied colorations and patterns stained onto them - pretty much looks like a flying manta ray with painted wings.
