@@ -1,3 +1,11 @@
+#### Faction
+[[Ouag Tong]], Sailor
+#### Location
+[[Ouashallath Island]], Exterior
+#### Background
+TBD
+#### Personality
+TBD
 #### Dialogue
 
 | Topic              | Filter         | Text                                                                                                                                                       |

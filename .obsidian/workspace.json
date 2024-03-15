@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "602f7c5bd8aecb60",
+        "id": "0b6b3a662917b581",
         "type": "tabs",
         "children": [
           {
-            "id": "916acd13efd06826",
+            "id": "12a190ee3917beb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Refulgent Erudite.md",
+                "file": "Characters/Azura City Commoner.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "presbytery",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Refulgent Erudite.md",
+                "file": "Characters/Azura City Commoner.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Refulgent Erudite.md",
+                "file": "Characters/Azura City Commoner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,8 +113,12 @@
             "id": "e0d5e25f36cb4210",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Fauna/Kuro.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -133,12 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Refulgent Erudite.md"
+                "file": "Characters/Azura City Commoner.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -154,38 +159,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "916acd13efd06826",
+  "active": "12a190ee3917beb1",
   "lastOpenFiles": [
-    "Characters/Ouag Tong/OT Questgiver.md",
-    "Characters/House Azura/HA Questgiver 1.md",
-    "Characters/Mages Guild/Magister Jusenna.md",
-    "Characters/Azura City Commoner.md",
-    "Characters/Refulgent Erudite.md",
-    "Characters/Mages Guild/Magister Jemusette Loche.md",
-    "Characters/Mages Guild/Magister Zalaster.md",
-    "Characters/Mages Guild/Magister Reeh-Fen.md",
-    "Characters/Mages Guild/Magister Laarie.md",
-    "Factions/Mages Guild.md",
-    "Characters/Ouag Tong/Kilbucho Swift-keel.md",
-    "Characters/Vuldo.md",
-    "Characters/Ouag Tong",
     "Factions/Ouag Tong.md",
-    "Locations/Ouashallath Island.md",
-    "Factions/Padomaic Pirates.md",
+    "Factions/Mages Guild.md",
+    "Factions/House Azura.md",
+    "Characters/Ouag Tong/OT Questgiver.md",
+    "Characters/Ouag Tong/Kilbucho Swift-keel.md",
+    "Characters/House Azura/HA Questgiver 2.md",
+    "Characters/House Azura/HA Questgiver 1.md",
+    "Characters/Daedra/Azura.md",
+    "Characters/Daedra/Aesmandroth.md",
+    "Characters/Mages Guild/Magister Laarie.md",
+    "Characters/Mages Guild/Magister Jusenna.md",
+    "Characters/Mages Guild/Magister Jemusette Loche.md",
+    "Characters/Mages Guild/Magister Crim.md",
+    "Characters/Mages Guild/Luunel.md",
+    "Characters/Mages Guild/Lorent Brumarc.md",
+    "Characters/Mages Guild/Leifid.md",
+    "Characters/Mages Guild/Gaulorn.md",
+    "Characters/Mages Guild/Dather Dols.md",
+    "Characters/Mages Guild/Chet.md",
+    "Characters/Mages Guild/Apinda Minnus.md",
+    "Characters/Mages Guild/Magister Zalaster.md",
+    "Lore/Literature/Dreugh Creation Myth (Fragment).md",
+    "Characters/Azura City Commoner.md",
     "Lore/Fauna/Kuro.md",
-    "Lore/Fauna/Inkwing.md",
-    "Quests/Side/Quest Prompts.md",
-    "Characters/Nolmer/Ester.md",
+    "Characters/Mages Guild/Morodroon.md",
+    "Characters/Refulgent Erudite.md",
+    "Characters/Ouag Tong",
     "Lore/Fauna",
-    "Quests/Side/Bnay/Arena Questline.md",
-    "Quests/Side/Wilderness/Targrip's Protonymic.md",
     "Quests/Side/Bnay",
     "Quests/Side/Wilderness",
-    "Lore/Language/Chimeri.md",
-    "Characters/Mages Guild/Magister Crim.md",
-    "Quests/Side/Azura City/The Quayside Tavern.md",
-    "Quests/Side/Azura City/Standing Tall.md",
-    "Quests/Side/Azura City/On the Other Foot.md",
     "Characters/Historical",
     "Characters/Rosery of Azura",
     "Characters/Nolmer",

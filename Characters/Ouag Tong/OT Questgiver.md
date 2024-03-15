@@ -1,3 +1,11 @@
+#### Faction
+[[Ouag Tong]], TBD
+#### Location
+[[Ouashallath Island]], TBD
+#### Background
+TBD
+#### Personality
+TBD
 #### Dialogue
 
 | Topic              | Filter                  | Text                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
