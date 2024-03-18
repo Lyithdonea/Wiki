@@ -120,3 +120,9 @@ Azura: Nirn will not be destroyed. The Heart was a key which kept the barriers b
 Nirn will be absorbed into Oblivion. Every last offspring whether mer, man or beast will return to the plane of their lord, Aedroth or Daedroth. What comes after is myth.
 
 Azura: Go now, friend. Speak of this if you will, but it shall do little good or ill.
+
+#### Topics
+
+```query
+tag:topic/azura
+```

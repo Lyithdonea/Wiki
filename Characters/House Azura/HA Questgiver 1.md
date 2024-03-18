@@ -1,5 +1,10 @@
 #### Dialogue
 
+> [!CITE] [[Azura]]
+> [[Azura]]’s sphere is dusk and dawn, the magic in-between realms of twilight, known as [[Moonshadow]]. She is called by many names: Mother of the Rose, and Queen of the Night Sky.
+> 
+> #Topic/Azura
+
 | Topic                  | Filter      | Text                                                                                                                                                                                                                                                                  |
 | ---------------------- | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Azura                  |             | Azura’s sphere is dusk and dawn, the magic in-between realms of twilight, known as Moonshadow. She is called by many names: Mother of the Rose, and Queen of the Night Sky.                                                                                           |
