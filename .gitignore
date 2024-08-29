@@ -1,0 +1,16 @@
+.DS_Store
+.gitignore
+node_modules
+public
+prof
+tsconfig.tsbuildinfo
+.obsidian/plugins
+.obsidian/*.json
+az-content/.obsidian/!snippets
+az-content/.obsidian/plugins
+az-content/.obsidian/*.json
+.quartz-cache
+private/
+.replit
+replit.nix
+package-lock.json
