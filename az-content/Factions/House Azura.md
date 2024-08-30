@@ -1,2 +1,0 @@
-**Motivations (Main Storyline):**
-House Azura is interested in defending against [[Aesmandroth]] and his hordes. They desire prosperity. They worship their Lord [[Azura]] but leave the details to the [[Rosery of Azura]]. House Azura is the face of physicality appreciating the divine, but relying on their own power to prosper.

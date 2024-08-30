@@ -1,1 +1,0 @@
-Also known as the "Black Pirates", this hostile faction hails from the Black Harbor of Esroniet. Many of their members are made up of ex-legionnaires who were stranded after the empire's hold over the Padomaic Islands weakened.

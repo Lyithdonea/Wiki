@@ -1,1 +1,0 @@
-It should be noted that, while Veloth is given credit for establishing the anti-laws that govern the Endeavor, this process has its antecedents in the teachings of the Black Hands Mephala, Boethiah, Azura, Trinimac, and, of course, Lorkhan, through that lord's association with PSJJJJ.

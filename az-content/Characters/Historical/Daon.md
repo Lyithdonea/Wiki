@@ -1,1 +1,0 @@
-Elder Daon is the legendary mortal father of [[Aesmandroth]]. Consort of [[Azura]].

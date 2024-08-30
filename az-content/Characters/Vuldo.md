@@ -1,1 +1,0 @@
-Owner of Jubuka'im Farm.

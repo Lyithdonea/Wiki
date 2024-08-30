@@ -1,1 +1,0 @@
-A Prophet at the Rosery of Azura.

@@ -1,1 +1,0 @@
-The High Elven ship of Captain Ilmennon. The player sails in it from Vvardenfell to [[Lyithdonea]].

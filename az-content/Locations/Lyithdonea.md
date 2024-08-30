@@ -1,2 +1,0 @@
-### Origins
-Although it is believed to be a mostly false tale, [[House Azura]] legend states that [[Azura]] herself raised the isles out of the ocean and populated them with unique life. In actuality, no amount of Azura’s power would have allowed her to change anything to such a great extent on Nirn. Read more in [[The Translation]]. The Khajiit would say "this is just like Azurah, taking credit for her littermate Nirni's beauty."
