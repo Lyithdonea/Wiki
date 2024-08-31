@@ -9,10 +9,32 @@
 @use "./custom/maintenance-template-callout.scss";
 @use "./custom/transclusion-adjustments.scss";
 
-// put your custom CSS here!
-
 .page-title {
     height: 175px;
+}
+
+/* --- MMW Logo on mobile display --- */
+
+@media screen and (max-width:$mobileBreakpoint) {
+  .Logo {
+    max-height: 150px;
+    min-height: 100px;
+    max-width: 150px;
+    min-width: 100px;
+  }
+  .page-title {
+    height: 150px;
+  }
+  #quartz-body .sidebar.left {
+    margin-top: 0.5rem;
+  }  
+  .sidebar.left .spacer.mobile-only {
+    flex: 0.5 0.5 auto;
+  }
+}
+
+#explorer-ul {
+    max-height: calc(100vh - 400px);
 }
 
 /*---- kbd styling ----*/
