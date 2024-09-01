@@ -4,7 +4,14 @@ aliases:
   - The Nautican
 tags:
   - books
+  - az_
+  - current
+  - religious
+  - ouag-tong
+  - rare
+  - original
 description: An Ouag Tong initiation book.
+author: Melchior Dahrk
 ---
 Ouashok, friend. Welcome to the Nautican.
 

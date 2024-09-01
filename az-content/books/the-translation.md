@@ -4,7 +4,16 @@ aliases:
   - The Translation
 tags:
   - books
+  - az_
+  - current
+  - legend
+  - religious-azura
+  - geography
+  - unreliable
+  - niche
+  - original
 description: A questionable account of how Lyithdonea was formed.
+author: Melchior Dahrk
 ---
 ## Forward
 by Faleno Sorveyn, Scribe

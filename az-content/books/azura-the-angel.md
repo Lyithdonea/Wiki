@@ -4,7 +4,14 @@ aliases:
   - Azura the Angel
 tags:
   - books
+  - az_
+  - current
+  - nonfiction
+  - religious-azura
+  - niche
+  - original
 description: A description of how Azura's dichotomous nature manifests.
+author: Melchior Dahrk
 ---
 by Dilanu Fahuig
 

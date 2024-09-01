@@ -4,7 +4,14 @@ aliases:
   - Elves of the Southern Isles
 tags:
   - books
+  - com_
+  - current
+  - nonfiction
+  - ouamer
+  - popular
+  - original
 description: An explanation of the Ouamer people who live in Lyithdonea.
+author: Melchior Dahrk
 ---
 By Charmagi Westayn
 
