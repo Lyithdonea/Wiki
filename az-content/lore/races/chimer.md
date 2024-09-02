@@ -1,17 +1,23 @@
 ---
-title: Chimeri
+title: Chimer
 aliases:
-  - Chimeri
+  - Chimer
+  - People of the North
+  - Changed Folk
+  - Changed Ones
+  - Maliache
 tags:
-  - language
-description: Language of the Chimer.
+  - races
+description: The Chimer (literally, the People of the North) were the Aldmeri tribes of dissidents who abandoned the ways of Summerset Isle and embarked on a great exodus to Morrowind.
 ---
+## [UESP](https://en.uesp.net/wiki/Lore:Chimer)
+
+## Language
 Language of the [[chimer|Chimer]]. Chimeri is very similar to Dunmeri. Sharing many words. The Lyithdonea dialect merges many daedric words into their naming conventions.
 
-| Word       | Translation   |
-| ---------- | ------------- |
-| Ouashoki   | Water-Blessed |
-| Lyithdonea | ???           |
+| Word     | Translation   |
+| -------- | ------------- |
+| Ouashoki | Water-Blessed |
 ### Phrases
 
 | Phrase                   | Meaning                                                                                                                                               |

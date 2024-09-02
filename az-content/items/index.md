@@ -1,7 +1,7 @@
 ---
-title: Classes
+title: Items
 aliases:
-  - Classes
+  - Items
 tags: 
 description:
 ---

@@ -1,7 +1,7 @@
 ---
-title: Language
+title: Lore
 aliases:
-  - Language
+  - Lore
 tags: 
 description:
 ---

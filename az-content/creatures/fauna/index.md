@@ -1,7 +1,7 @@
 ---
-title: Beasts
+title: Fauna
 aliases:
-  - Beasts
+  - Fauna
 tags: 
 description:
 ---

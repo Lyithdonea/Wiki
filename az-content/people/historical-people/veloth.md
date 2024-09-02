@@ -5,7 +5,7 @@ aliases:
   - Saint Veloth
 tags:
   - people
-  - historical
+  - historical-people
 description: Veloth led the Chimer from their Aldmeri roots and migrated en masse to the East.
 ---
 ### [UESP](https://en.uesp.net/wiki/Lore:Veloth)

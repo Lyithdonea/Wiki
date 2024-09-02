@@ -1,7 +1,7 @@
 ---
-title: Cosmology
+title: Assets
 aliases:
-  - Cosmology
+  - Assets
 tags: 
 description:
 ---
