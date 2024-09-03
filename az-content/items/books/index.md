@@ -37,6 +37,8 @@ description:
 > [!column|clean no-t list 3]
 > - #akavir
 > - #alchemy
+> - #astronomy
+> - #azura
 > - #beasts
 > - #daedra
 > - #dreugh
@@ -46,6 +48,7 @@ description:
 > - #house-azura 
 > - #lycanthropy
 > - #magic
+> - #metaphysics 
 > - #nautical
 > - #necromancy
 > - #ouag-tong 
@@ -83,3 +86,10 @@ description:
 ### Source
 * **OOG** - From an Out Of Game developer text.
 * **original** - Original text written by The Elder Scrolls community members.
+## Deprecate
+List of books which may need to be replaced, deprecated, or rewritten to be more thematically appropriate for the mod:
+* On Kothringi (replace)
+* Nightlife On Tamriel (revise)
+* The Adventurer's Life (replace)
+* Bedtime Sailing Stories (rewrite)
+* Secret of the Dreugh (revise)
