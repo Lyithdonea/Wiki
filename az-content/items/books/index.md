@@ -40,6 +40,7 @@ description:
 > - #astronomy
 > - #azura
 > - #beasts
+> - #cathnoquey
 > - #daedra
 > - #dreugh
 > - #flora
@@ -48,12 +49,15 @@ description:
 > - #house-azura 
 > - #lycanthropy
 > - #magic
+> - #maormer
 > - #metaphysics 
 > - #nautical
 > - #necromancy
 > - #ouag-tong 
 > - #ouamer
 > - #smithing
+> - #tang-mo 
+> - #tsaesci
 > - #vampirism
 ### Content
 > [!column|clean no-t list 3]

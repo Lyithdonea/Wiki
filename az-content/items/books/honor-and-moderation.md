@@ -10,8 +10,10 @@ tags:
   - akavir
   - niche
   - original
+  - tsaesci
 description: A book on Tsaesci physiology.
-author: "\rMaering_Bear-Poker"
+author:
+  - "\rMaering_Bear-Poker"
 ---
 By Maering Bear-Poker  
 ## A Brief Introduction:  

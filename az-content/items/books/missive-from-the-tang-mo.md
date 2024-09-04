@@ -4,11 +4,17 @@ aliases:
   - Missive from the Tang Mo
 tags:
   - az_
-description: A copy of a letter
+  - current
+  - unreliable
+  - tang-mo
+  - rare
+  - original
+  - akavir
+description: A copy of a letter from a Tang Mo addressed to an Emperor "Titus Septim".
 author:
   - Lord_Hoot
 ---
-To his esteemed holiness the Emperor Septim, convener and synthesis of all barbarian people of the Western Mystery Island, be they wise or stupid. As ever, I have the honour of being his excellency King Jigra Mo, Radiant Emperor and Learned Sage of the island called Act Now, Discuss Later, strongest bough of the Thousand and Thousand Islands of Tang Mo. I write during a cloudless orange sunset, with an easterly wind cooling my labours. I hope this missive finds you well, brave chieftain!  
+To his esteemed holiness the Emperor Titus Septim, convener and synthesis of all barbarian people of the Western Mystery Island, be they wise or stupid. As ever, I have the honour of being his excellency King Jigra Mo, Radiant Emperor and Learned Sage of the island called Act Now, Discuss Later, strongest bough of the Thousand and Thousand Islands of Tang Mo. I write during a cloudless orange sunset, with an easterly wind cooling my labours. I hope this missive finds you well, brave chieftain!  
   
 In your last contact you expressed a wish to learn more about the glittering realm of the Thousand and Thousand Islands of Tang Mo, where all monkeys are Emperors and no thoughts are wasted. I should be happy to enlighten you, and will use simple language so you are not confused.  
   
@@ -24,4 +30,5 @@ I must stop writing soon; my foot is tired. In addition to the calculation powde
   
 May your eyes and ears always be clear, and may your voice howl with truth.
 
-Publisher's Note: This note was found in a bottle on the shores of Lyithdonea. It is presumably a hoax, but an odd one. One would assume a hoaxer would know enough to address the letter to the current Emperor of Tamriel, Uriel Septim VII. I've never heard of any 'Titus Septim'.
+> [!Publisher's Note]
+> This note was found in a bottle on the shores of Lyithdonea. It is presumably a hoax, but an odd one. One would assume a hoaxer would know enough to address the letter to the current Emperor of Tamriel, Uriel Septim VII. I've never heard of any 'Titus Septim'.
