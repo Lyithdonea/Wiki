@@ -9,6 +9,7 @@ tsconfig.tsbuildinfo
 *-content/.obsidian/!snippets
 *-content/.obsidian/plugins
 *-content/.obsidian/*.json
+!*-content/.obsidian/types.json
 .quartz-cache
 private/
 .replit
