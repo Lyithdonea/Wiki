@@ -27,7 +27,7 @@ It would seem that the Daedric Princes were only able to form their realms by us
 
 > The Ayleids harvested castaway creatia from Oblivion by entering a pact with the masters of the Void, the Princes of Misrule.
 
-[[azura]] might also have access to this creatia. Maybe that is what she used to create the realm of Lyithdonea.
+[[azura|Azura]] might also have access to this creatia. Maybe that is what she used to create the realm of Lyithdonea.
 
 > Every dawnmaker Tower takes a myth-form. Red Tower is a volcano and its surrounds. The Aldmeri polydoxes were cosminachs, and the White-Gold project was and is no different.
 
