@@ -12,11 +12,12 @@ This page covers the guidelines for which assets to use and where to use them in
 > 
 > There are special cases such as with imported goods where sets not listed here may be acceptable. When in doubt, ask.
 ## Furniture
-* Poor `az_furn_bamboo*`
-	* This set is used as a "poor" equivalent throughout Lyithdonea. It should be used in places where `de_p` and `com_p` are used on Vvardenfell.
-* Mid `AB_Furn_DeMid*`
+* Poor (`az_furn_bamboo, furn_de_ex, AB_Furn_DeEx`)
+	* The bamboo set is used as a "poor" equivalent throughout Lyithdonea. It should be used in places where `de_p` and `com_p` are used on Vvardenfell.
+	* de_ex can also be used.
+* Mid (`AB_Furn_DeMid`)
 	* There is currently no replacement for middle class furniture so DeMid from OAAB_Data can be used in middle class interiors (e.g. merchants, prosperous taverns, etc.)
-* Rich `AB_Furn_DeRch*` & `furn_de_r*`
+* Rich (`AB_Furn_DeRch, furn_de_r`)
 	* There is currently no replacement for rich furniture so the vanilla de_r set and additions from the OAAB_Data DeRch set can be used in high class interiors.
 ## Miscellaneous
 * Poor
