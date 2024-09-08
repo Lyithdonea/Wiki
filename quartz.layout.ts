@@ -43,13 +43,13 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer({
       folderClickBehavior: "link", 
-      filterFn: (node) => node.name !== "Templates",
+      filterFn: (node) => node.name !== "templates",
     })),
   ],
   right: [
     Component.MobileOnly(Component.Explorer({
       folderClickBehavior: "link", 
-      filterFn: (node) => node.name !== "Templates",
+      filterFn: (node) => node.name !== "templates",
     })),
     Component.DesktopOnly(Component.Graph(graphConfig)),
     Component.DesktopOnly(Component.TableOfContents()),
@@ -67,13 +67,13 @@ export const defaultListPageLayout: PageLayout = {
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer({
       folderClickBehavior: "link", 
-      filterFn: (node) => node.name !== "Templates",
+      filterFn: (node) => node.name !== "templates",
     })),
   ],
   right: [
     Component.MobileOnly(Component.Explorer({
       folderClickBehavior: "link", 
-      filterFn: (node) => node.name !== "Templates",
+      filterFn: (node) => node.name !== "templates",
     })),
     Component.DesktopOnly(Component.Graph(graphConfig)),
     Component.DesktopOnly(Component.TableOfContents()),
