@@ -12,7 +12,7 @@ description: The series of books read by initiates to the Mythic Dawn cult.
 > 
 > | Type | Name |
 > | --- | --- |
-> | Source | TES4 |
+> | Source | Oblivion |
 
 ## Book One
 [Dagon written in Daedric script]
