@@ -7,6 +7,13 @@ description: This is a hypothetical conversation between Azura and the Nerevarin
 author:
   - Melchior Dahrk
 ---
+> [!infobox|n-th]
+> 
+> ## Book Information
+> 
+> | Type | Name |
+> | --- | --- |
+> | Source | Melchior Dahrk |
 ## Azura speaking to the Nerevarine
 [Azura speaks of how the Nerevarine was not tricked during his conquest against House Dagoth.]
 

@@ -5,6 +5,14 @@ aliases:
 tags: 
 description: This rare magical scroll is the most powerful shielding scroll in the game but also damages the caster when used.
 ---
+> [!infobox|n-th]
+> 
+> ## Book Information
+> 
+> | Type | Name |
+> | --- | --- |
+> | Source | Morrowind |
+
 THE NINTH BARRIER CANNOT EXIST! ^0f0645
 
 > [!Note]

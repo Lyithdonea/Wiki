@@ -7,6 +7,15 @@ description: Made Up Word Round Up was a forum topic made by Michael Kirkbride i
 author:
   - Michael Kirkbride
 ---
+> [!infobox|n-th]
+> 
+> ## Book Information
+> 
+> | Type | Name |
+> | --- | --- |
+> | Source | Elder Scrolls Forum |
+> | Writer | Michael Kirkbride |
+
 ## MK
 Hey folks, Feeling much better, thankee thankee. Boy, there sure are a lot of made up words in Tamriel, like "dracochrysalis" and "impossipoint" and "mananaut"..! and and and Tell you what: you guys round 'em up and I'll do my best to explain what they are. In-character. Or you guys can try and figure them out yourself. In any case, it should be fun. Phrases count, too, so "Empire Actual" can be listed, for example. Let's go. Gimme your favorites. Everybody play.
 ## Allerleirauh
@@ -177,4 +186,4 @@ This can happen; we have a black President now. [censored] you, Water Jesuses.
 
 ***
 ## Notes
-This page contains content from the [Unofficial Elder Scrolls Pages Wiki](http://en.uesp.net/wiki/Lore:Wars#The_War_of_Succession) and is licensed under [CC Attribution Share Alike](https://creativecommons.org/licenses/by-sa/2.5/).
+This article uses material from the UESP article ["General:Made Up Word Round Up"](https://en.uesp.net/wiki/General:Made_Up_Word_Round_Up). It is licensed under the ​[Creative Commons by-sa license](https://creativecommons.org/licenses/by-sa/2.5/).

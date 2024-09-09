@@ -5,6 +5,14 @@ aliases:
 tags: 
 description: The Trial of Vivec started as a forum thread created by a fan named "zingbat" on the Official Elder Scrolls Forums, who proposed a roleplay about the persecution of Vivec for his crimes. Developer Michael Kirkbride hopped on and went with the idea, later inviting other developers get involved as a big roleplaying event.
 ---
+> [!infobox|n-th]
+> 
+> ## Book Information
+> 
+> | Type | Name |
+> | --- | --- |
+> | Source | Elder Scrolls Forum |
+> | Writer(s) | Michael Kirkbride, Kurt Kuhlmann, Gary Noonan, Ken Rolston, Ted Peterson |
 ## Zingbat (02/26/04):
 
 I propose for, role-playing sake, that we judge Vivec and the Tribunal in an improvised Daggerfall type tribunal. If Vivec is condemned then he gets to rotten for ages in a dark imperial prison cell.
@@ -1272,3 +1280,7 @@ Attrebus: And you tried to make me go insane.
 And damn near succeeded too. Heh heh.
 
 You'll be glad to know that Gosleigh stopped running on the High Rock / Cyrodiil border, and is sleeping off the visions he had of deicide.
+
+***
+## Notes
+This article uses material from the UESP article ["General:Trial of Vivec"](https://en.uesp.net/wiki/General:Trial_of_Vivec). It is licensed under the ​[Creative Commons by-sa license](https://creativecommons.org/licenses/by-sa/2.5/).

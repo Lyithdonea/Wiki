@@ -5,6 +5,14 @@ aliases:
 tags: 
 description:
 ---
+> [!infobox|n-th]
+> 
+> ## Book Information
+> 
+> | Type | Name |
+> | --- | --- |
+> | Source | Daggerfall Preview |
+
 ## Spriggan
 * **Location**: Woodlands and rural areas are of the Imperial Province of High Rock.
 * **History**: These reclusive creatures are considered by some scholars to be in the genus Illyandi or part of the Sylphim or Faerie chain. They are all but immune to physical attack, in fact capable of gaining power from such offense.
@@ -32,3 +40,7 @@ description:
 ## Daedroth
 * **Location**: Oblivion
 * **History**: Little is commonly known about the Daedroth and its brethren. The Daedra Princes of Oblivion, who command the Daedroth, often employ them as guards or on simple assassinations when brute strength and fortitude is required.
+
+***
+## Notes
+This article uses material from the UESP article ["Daggerfall:Daggerfall Preview"](https://en.uesp.net/wiki/Daggerfall:Daggerfall_Preview). It is licensed under the ​[Creative Commons by-sa license](https://creativecommons.org/licenses/by-sa/2.5/).

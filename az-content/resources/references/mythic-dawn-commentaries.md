@@ -6,6 +6,14 @@ aliases:
 tags: 
 description: The series of books read by initiates to the Mythic Dawn cult.
 ---
+> [!infobox|n-th]
+> 
+> ## Book Information
+> 
+> | Type | Name |
+> | --- | --- |
+> | Source | TES4 |
+
 ## Book One
 [Dagon written in Daedric script]
 

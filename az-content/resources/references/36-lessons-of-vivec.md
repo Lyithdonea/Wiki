@@ -6,6 +6,14 @@ aliases:
 tags: 
 description:
 ---
+> [!infobox|n-th]
+> 
+> ## Book Information
+> 
+> | Type | Name |
+> | --- | --- |
+> | Source | Morrowind |
+
 ## Sermon One
 He was born in the ash among the Velothi, anon Chimer, before the war with the northern men. Ayem came first to the village of the netchimen, and her shadow was that of Boethiah, who was the Prince of Plots, and things unknown and known would fold themselves around her until they were like stars or the messages of stars. Ayem took a netchiman's wife and said:  
   

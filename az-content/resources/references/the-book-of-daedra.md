@@ -5,6 +5,14 @@ aliases:
 tags: 
 description: Excerpts from a lengthy tome describing the nature of each of the Daedra.
 ---
+> [!infobox|n-th]
+> 
+> ## Book Information
+> 
+> | Type | Name |
+> | --- | --- |
+> | Source | Morrowind |
+
 \[These are excerpts from this lengthy tome, describing the nature of each of the Daedra.\]  
   
 Azura, whose sphere is dusk and dawn, the magic in-between realms of twilight, known as Moonshadow, Mother of the Rose, and Queen of the Night Sky.   ^eee1f9

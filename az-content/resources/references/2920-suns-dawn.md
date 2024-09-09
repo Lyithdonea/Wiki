@@ -5,6 +5,14 @@ aliases:
 tags: 
 description: Volume 2 of a historical series about Vivec and the Empire.
 ---
+> [!infobox|n-th]
+> 
+> ## Book Information
+> 
+> | Type | Name |
+> | --- | --- |
+> | Source | Morrowind |
+
 Book Two of  
 2920, The Last Year of the First Era  
 by Carlovac Townway  

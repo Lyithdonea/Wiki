@@ -5,6 +5,13 @@ aliases:
 tags: 
 description: An illustrated guidebook detailing the provinces of the Empire, circa 2E 864.
 ---
+> [!infobox|n-th]
+> 
+> ## Book Information
+> 
+> | Type | Name |
+> | --- | --- |
+> | Source | Redguard |
 ## Preface
 Severest Uncle,
 
@@ -77,3 +84,7 @@ To SANGUINE who tastes the Shaven Fruit.
 To VAERNIMA Weaver of the Panoply.
 
 ^6db16e
+
+***
+## Notes
+This article uses material from the UESP article ["Lore:Pocket Guide to the Empire, 1st Edition"](https://en.uesp.net/wiki/Lore:Pocket_Guide_to_the_Empire,_1st_Edition). It is licensed under the ​[Creative Commons by-sa license](https://creativecommons.org/licenses/by-sa/2.5/).

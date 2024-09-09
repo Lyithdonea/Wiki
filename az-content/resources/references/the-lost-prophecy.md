@@ -5,6 +5,14 @@ aliases:
 tags: 
 description: One of the Nerevarine Prophecies.
 ---
+> [!infobox|n-th]
+> 
+> ## Book Information
+> 
+> | Type | Name |
+> | --- | --- |
+> | Source | Morrowind |
+
 \[from the Apographa of the Dissident Priests, annotated by Gilvas Barelo, Abbot of Holamayan\]  
   
 From seventh sign of eleventh generation,  

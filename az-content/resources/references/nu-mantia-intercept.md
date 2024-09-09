@@ -7,6 +7,14 @@ description: A warning to the Elder Council
 author:
   - Michael Kirkbride
 ---
+> [!infobox|n-th]
+> 
+> ## Book Information
+> 
+> | Type | Name |
+> | --- | --- |
+> | Source | Elder Scrolls Forum |
+> | Writer | Michael Kirkbride |
 ## Letter #1
 By secret glyph: dreamsleeve transmission  
 Dreamsleeve: urgent, security protocols granted  
@@ -175,3 +183,7 @@ Every dawnmaker Tower takes a myth-form. Red Tower is a volcano and its surround
 Though the Ayleids gave theirs a central Spire as the imago of Ada-mantia, the whole of the polydox resembled the Wheel, with eight lesser towers forming a ring around their primus. To dismiss this mythitecture as being a mockery of the Aurbis is to ignore an important point: this same “jest” gave White-Gold Tower a power over creatia unalike any on this plane(t). It was a triumph of sympathetic megafetish, and the Start of the \[Threat! To! Empire!] that brings me to this Council.
 
 If the Ayleids made their own Wheel within the Wheel, were-web aad semblio, what would happen if they plucked its strings?
+
+***
+## Notes
+This article uses material from The Imperial Library page ["Nu-Mantia Intercept](https://www.imperial-library.info/content/nu-mantia-intercept). It is licensed under the ​[Creative Commons by-sa license](https://creativecommons.org/licenses/by-sa/2.5/).

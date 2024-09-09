@@ -5,6 +5,14 @@ aliases:
 tags: 
 description: A scholarly description of the events surrounding the Battle at Red Mountain and its aftermath.
 ---
+> [!infobox|n-th]
+> 
+> ## Book Information
+> 
+> | Type | Name |
+> | --- | --- |
+> | Source | Morrowind |
+
 \[The following is from the Apographa, the hidden writings of the Tribunal Temple. It is a scholarly retelling of a tradition transmitted through the Ashlanders concerning the battle at Red Mountain and subsequent events. The Ashlanders associate this tale with the telling of Alandro Sul, a shield-companion of Nerevar who came to live among the Ashlanders after the death of Nerevar and during the ascension of the Tribunal. There are many variant treatments of this story, but the primary elements are consistent throughout the tradition. The murder of Nerevar, the tragic fate of Dagoth Ur, and the profane source of the Tribunal's divine power are denied by Temple doctrine as ignorant Ashlander superstition, and not widely known among civilized Dunmer.\]  
   
 Resdayn, present day Morrowind, was contested ground between two very different types of mer: the Chimer, who worshipped Daedra, and the Dwemer, who worshipped a profane and secret power. These two people warred with each other constantly until their lands were invaded by a young, vibrant, and violent alien culture, the Nords.  

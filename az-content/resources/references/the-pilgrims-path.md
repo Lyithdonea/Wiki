@@ -5,6 +5,14 @@ aliases:
 tags: 
 description: A book describing each of the Temple's shrines.
 ---
+> [!infobox|n-th]
+> 
+> ## Book Information
+> 
+> | Type | Name |
+> | --- | --- |
+> | Source | Morrowind |
+
 The pilgrim must visit each of the Shrines of the Seven Graces. At each site the pilgrim must stand before the three-sided stone triolith and read the inscription. To ease the pilgrim's task, the Temple has made this list of shrines along with directions and advice to pilgrims. The blessings of each shrine last at least a half day.  
 ## The Fields of Kummu: Shrine of Humility  
 Here Lord Vivec met a poor farmer whose guar had died. The farmer could not harvest his muck without his guar, and he could not provide for his family or his village. So the Lord Vivec removed his fine clothes and toiled in the fields like a beast of burden until the crop was harvested. It is at the Fields of Kummu we go to pray for the same humility Lord Vivec showed on that day.  

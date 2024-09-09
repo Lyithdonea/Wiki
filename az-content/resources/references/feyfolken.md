@@ -8,6 +8,14 @@ aliases:
 tags: 
 description: The Great Sage tells a story of Artaeum, Psijics, and Automated Enchanters.
 ---
+> [!infobox|n-th]
+> 
+> ## Book Information
+> 
+> | Type | Name |
+> | --- | --- |
+> | Source | Morrowind |
+
 ## Book One  
 by Waughin Jarth  
 

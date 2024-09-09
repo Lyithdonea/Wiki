@@ -7,6 +7,14 @@ description: Where and how the Mages Guild started.
 author:
   - Ted Peterson
 ---
+> [!infobox|n-th]
+> 
+> ## Book Information
+> 
+> | Type | Name |
+> | --- | --- |
+> | Source | Morrowind |
+
 by The Archmage Salarth  
 
 The idea of a collection of Mages, Sorcerers, and assorted Mystics pooling their resources and talents for the purpose of research and public charity was a revolutionary concept in the early years of the Second Era. The only organization then closest in aim and structure to what we know today as the Mages Guild was the Psijic Order of the Isle of Artaeum. At the time, magic was something to be learned by individuals, or at most within intimate covens. Mages were, if not actually hermits, usually quite solitary.  

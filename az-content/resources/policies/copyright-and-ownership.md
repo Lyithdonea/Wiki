@@ -31,7 +31,3 @@ This article is licensed under the <a href="http://creativecommons.org/licenses/
 ```
 
 In the event that you find a page or site where the above steps have not been taken, please post something in the [Lyithdonea Discord server](https://discord.gg/w9xE9qxaPX) to let us know of the situation, even if it has already been resolved.
-
-***
-## Notes
-This page contains modified content from the [Unofficial Elder Scrolls Pages Wiki](http://en.uesp.net/wiki/Lore:Wars#The_War_of_Succession) and is licensed under [CC Attribution Share Alike](https://creativecommons.org/licenses/by-sa/2.5/).

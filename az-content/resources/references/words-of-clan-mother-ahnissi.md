@@ -7,6 +7,14 @@ description: How a Khajiit explains the origin of the world.
 author:
   - Douglas Goodall
 ---
+> [!infobox|n-th]
+> 
+> ## Book Information
+> 
+> | Type | Name |
+> | --- | --- |
+> | Source | Morrowind |
+
 to her Favored Daughter  
 
 Ahnissi tells you. You are no longer a mewing kitten and you have learned to keep secrets from Ahnissi, and so Ahnissi tells you.  
