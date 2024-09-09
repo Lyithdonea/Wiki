@@ -14,7 +14,6 @@ The _content_ of the Lyithdonea Wiki is licensed freely under the **[Attribution
 There are many aspects of the **ownership** of the site:
 
 - The site itself is owned and operated by [Melchior Dahrk](https://next.nexusmods.com/profile/MelchiorDahrk/about-me).
-- The copyright of a particular edit is owned by the user who made the edit.
 - The software that the site uses, [Quartz 4.0](https://quartz.jzhao.xyz/), is owned by Jacky Zhao.
 - The Elder Scrolls, Arena, Daggerfall, Redguard, Battlespire, Morrowind, Tribunal, Bloodmoon, Stormhold, Dawnstar, Shadowkey, Oblivion, Shivering Isles, Skyrim, Dawnguard, Hearthfire, Dragonborn, Elder Scrolls Online, Bethesda Softworks, Vir2L, ZeniMax Online Studios, ZeniMax and their respective logos are registered trademarks or trademarks of ZeniMax Media Inc.
 ## Using Materials from the Lyithdonea Wiki
