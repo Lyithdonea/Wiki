@@ -174,3 +174,7 @@ Also, after awhile of torturing the hubris-ridden immortal cephalopods IN OUR CA
 "Work for us or work with us," we will say.
 And give them vocoders to answer, but only in English, with the implied understanding that refusing to answer in English is the equivalent of submitting willfully to being subjects of our TORTURE FOREVER-GAS FREE ENERGY INITIATIVE.
 This can happen; we have a black President now. [censored] you, Water Jesuses.
+
+***
+## Notes
+This page contains content from the [Unofficial Elder Scrolls Pages Wiki](http://en.uesp.net/wiki/Lore:Wars#The_War_of_Succession) and is licensed under [CC Attribution Share Alike](https://creativecommons.org/licenses/by-sa/2.5/).

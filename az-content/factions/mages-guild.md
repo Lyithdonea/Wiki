@@ -24,7 +24,7 @@ description: The Mages Guild in Lyithdonea was chartered during the "Ebon Age" o
 * Palatinus
 
 > [!Quote] [[origin-of-the-mages-guild|Origin of the Mages Guild]]
-> ![[origin-of-the-mages-guild#^8ac7fe]]
+> ![[origin-of-the-mages-guild#^8ac7fe|clean]]
 ## Motivations (Main Storyline)
 The guild of mages is primarily interested in the conflict from an academic perspective. They are highly interested in the metaphysical implications of a daedric conflict. They care little for the internal [[chimer|Chimer]] politics as long as it doesn’t affect their charter to stay in [[lyithdonea|Lyithdonea]] to conduct study.
 ## Members

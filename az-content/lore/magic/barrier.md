@@ -6,7 +6,7 @@ tags:
   - magic
 description: Magical barriers or shields.
 ---
-There are magical barriers which exist between various states and realms of existence in the aurbis.
+There are magical barriers which exist between various states and realms of existence in the [[aurbis]].
 
 1st - matter | man
 2nd - matter | mundus
@@ -16,7 +16,7 @@ There are magical barriers which exist between various states and realms of exis
 6th - mundus | oblivion (invasion)
 7th - mundus | aetherius (radiation)
 8th - oblivion | aetherius
-9th - [[aurbis]] | void (wakefulness)
+9th - aurbis | void (wakefulness)
 
 > [!Quote] [[scroll-of-the-ninth-barrier#^0f0645|Scroll of The Ninth Barrier]]
 > ![[scroll-of-the-ninth-barrier#^0f0645|clean]]
