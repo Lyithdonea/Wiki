@@ -2,15 +2,12 @@
 tags:
   - graph-exclude
 ---
-
 > [!maintenance] Headcanon
-> ![[npc-baladas-demnevanni.png|left wtiny]]
+> ![[god-azura.png|left wtiny]]
 > 
 > > [!maintenance|clean nbrd]
 > > 
-> > **"It is said that the Dwemer refused to discuss research with those who demonstrated neither interest nor competence in the subject."**
+> > **"You have come here for a reason, though you may not know what it is."**
 > > 
 > > This article or section contains 'musings' - developmental notes, not yet codified.
-
-^0fe9e4
 
