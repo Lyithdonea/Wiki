@@ -6,37 +6,18 @@ tags:
   - races
 description: The dreugh are an ancient species of aquatic, octopus-like beastfolk, commonly hunted for their hide and the wax scraped from their shells.
 ---
-## [UESP](https://en.uesp.net/wiki/Lore:Dreugh)
-## AZ
 ## Biology
-> An adventurer can fortify his **strength with a potion made from ash yams and dreugh wax**. Ash yam is a tough tuberous root vegetable common to the Ascadian Isles region. Dreugh wax is a tough, waxy substance scraped from dreugh shells. Dreugh are powerful aquatic creatures, and hunting them for their hides and wax is a dangerous occupation.
+Dreugh are half-human, half-octopus in appearance with crustaceous shells which produce a waxy substance. ^[1 [[tes3-dialogue#^545563|TES3 Dialogue]]] ^[2 [[tes3-dialogue#^5e6ff9|TES3 Dialogue]]] They are described as a semi-aquatic troglophile form of humans. ^[3 [[notes-on-racial-phylogeny#^e890fd|Notes on Racial Phylogeny]]]
 
-> Dreugh wax is very valuable, and has the properties of **fortifying strength, restoring strength, draining luck, and draining willpower**.
+> [!Note]
+> A troglophile, rather than simply one that "loves" a cave, which is the literal meaning of its name, is a cave-dwelling animal that does not live entirely in the dark. A troglophile is an organism that can live all its life either inside or outside a cave, so a troglophile is to a cave as an amphibian is to water.
 
-> Dreugh are ancient sea monsters, half-human, half-octopus in appearance. Dreugh are hunted for their hides, which are used for making armor, and dreugh wax
+Dreugh undergo a process called Karvinasim for one year of their life when they walk on land. After they are ready to return to the water, they will meff up fibrous balls of grom. Meffing involves the dreugh consuming the skin and organs required for land dwelling and then vomiting them into balls of grom. ^[4 [[2920-suns-dawn#^90e744|2920, Sun's Dawn]]]
 
-> Dreugh wax is a tough, waxy substance with modest magical properties, scraped from dreugh shells. Dreugh are powerful aquatic creatures, and hunting them for their hides and wax is a dangerous occupation.
+Dreugh Queens enter periods of self-incubation where they are indisposed to deal with other affairs. ^[5 [[36-lessons-of-vivec#^b68b3a|The Thirty-Six Lessons of Vivec]]]
 
-> Argonians, like the dreugh, appear to be a **semi-aquatic troglophile form of humans**, though it is by no means clear whether the Argonians should be classified with dreugh, men, mer, or (in this author's opinion), certain tree-dwelling lizards in Black Marsh.
-
-{Definition of troglophile: A troglophile, rather than simply one that "loves" a cave, which is the literal meaning of its name, is a cave-dwelling animal that does not live entirely in the dark. A troglophile is an organism that can live all its life either inside or outside a cave, so I guess a troglophile is to a cave as an amphibian is to water.}
-
-> … He [Sotha Sil]  pulled a small fibrous ball, about a foot in diameter from his white robes………"What is this?"………"It's grom," said Lilatha, uncertainly. "What the dreugh meff after they've k-k-kr-krevinasim."………"**Karvinasim**, but very good, nonetheless,"………. In this case, this ball is indeed grom, which is a substance created by the dreugh, an underwater race in the north and western parts of the continent. **For one year of their life, they undergo karvinasim when they walk upon the land. Following that, they return to the water and meff, or devour the skin and organs they needed for land-dwelling. Then they vomit it up into little balls like this. Grom. Dreugh vomit**."
-
-In the treasury there are said to be **Common Dreugh, Dreugh Man o’ War’s and Dreugh Warlords**.
+Alongside the common Dreugh seen in the base game, Dreugh Man o’ War’s are also mentioned along with the Dreugh Warlord seen in Koal Cave. ^[6 [[tes3-dialogue#^a953dd|TES3 Dialogue]]]
 ## Culture
-> Then Ayem threw the netchiman's wife into the ocean water where dreughs took her into **castles of glass and coral**. They gifted the netchiman's wife with gills and milk fingers, changing her sex so that she might give birth to the image as an **egg**.
-
-> The golden warrior-poet had been exercising his **Water Face as well, learned from the dreughs** before he was born………Nerevar said, 'Is this to keep you from the fire?'………Vivec said, 'It is so that I may see with truth. It, and my place here at the altar of Padhome in the house of False Thinking, serve so that I may see beyond my own secrets. **The Water Face cannot lie**. It comes from the ocean, which is too busy to think, much less lie. Moving water resembles truth by its trembling.
-
-> After his victory, Vivec took the shell of The Ruddy Man to the dreughs that had modified his mother. The Queen of Dreughs, **whose name is not easy to spell**, was in a period of **self-incubation**. Her wardens took the gift from Vivec and promised to guard it from the surface world. This is the first account of dreughs being liars.
-
-> When Vivec met the monster in battle again he saw the remains of three villages dripping from its feet. He took on his giant form and slew The Ruddy Man by way of the Symbolic Collage. Since he no longer trusted **the Altmer of the sea**, Vivec gave the carapace of the monster to the devout and loyal mystics of the Number Room.
+Dreughs are said to have lived in castles of glass and coral. ^[7 [[36-lessons-of-vivec#^0b6b00|The Thirty-Six Lessons of Vivec]]] They have knowledge of the Water Face which cannot lie and they taught this ability to Vivec. ^[8 [[36-lessons-of-vivec#^19e316|The Thirty-Six Lessons of Vivec]]] Some of their names are not easy to spell. ^[9 [[36-lessons-of-vivec#^b68b3a|The Thirty-Six Lessons of Vivec]]] Dreugh are sometimes referred to as an elvish race: Vivec calls them the "Altmer of the sea" and they have also been called cepholomer. ^[10 [[36-lessons-of-vivec#^2cfa2c|The Thirty-Six Lessons of Vivec]]] ^[11 [[the-republic-of-hahd#^09fbba|The Republic of Hahd]]]
 ## History
-> **When the dreughs ruled the world, the Daedroth Prince Molag Bal had been their chief**. He took a different shape then, **spiny and armored and made for the sea**. Vivec, in giving birth to the many spawn of his marriage, had dropped an old image of Molag Bal into the world: a dead carapace of memory. It would not have been a monster if a Velothi child had not wanted to impress his village by wearing it.
-
-> Within the Koal Cave, Vivec fought a battle with **Ruddy Man, the father of the Dreugh**. When he defeated Ruddy Man, Vivec spared his life, on the condition that Ruddy Man and his children would give up their tough hides to serve as armor for the Dunmer.
-
-> May the holder of the fourth key know the heart thereby: the Mundex Terrene was once **ruled over solely by the tyrant dreugh-kings, each to their own dominion, and borderwars fought between their slave oceans**. They were akin to the time-totems of old, **yet evil, and full of mockery and profane powers. No one that lived did so outside of the sufferance of the dreughs**.
-
-> The grotesque Dreugh is primarily an aquatic scavenger, though it does seem to have amphibian capacities. **According to legend, the Dreugh are the cursed remnants of a once proud civilization**.
+It is said that the Dreugh ruled the world a long time ago from their "slave oceans", possibly in a previous kalpa. At that time, Molag Bal was their chief and assumed a spiny and armored appearance which was suitable for life in the sea. ^[12 [[36-lessons-of-vivec#^d8cfeb|The Thirty-Six Lessons of Vivec]]] ^[13 [[mythic-dawn-commentaries#^aa1b63|Mythic Dawn Commentaries]]] An entity known as the Ruddy Man is credited with being the father of the Dreugh. ^[14 [[the-pilgrims-path#^08d914|The Pilgrim's Path]]] It is possible that the Dreugh lost their hold over the world due to a curse. ^[15 [[daggerfall-preview-bestiary#Dreugh|Daggerfall Preview Bestiary]]]
