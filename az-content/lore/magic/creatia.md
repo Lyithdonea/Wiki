@@ -7,9 +7,9 @@ tags:
   - magic
 description: Chaotic Creatia is unformed chaos native to the planes of Oblivion.
 ---
-## [UESP](https://en.uesp.net/wiki/Lore:Chaotic_Creatia)
+> [!Quote] [[made-up-word-round-up#Allerleirauh (Creatia)|Made Up Word Round Up]]
+> ![[made-up-word-round-up#Allerleirauh (Creatia)|clean]]
+> ![[made-up-word-round-up#MK (Creatia)|clean]]
 
-## AZ
-> Is leaking Creatia what the Daedra use to build their... buildy stuff... in Oblivion? Which is otherwise Void?
-> MK: Pretty much. Leaky creatia, otherwise called "kaleidocules".
+
 

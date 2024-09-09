@@ -15,17 +15,17 @@ description: The Towers are ancient structures on Nirn which date back to as ear
 > > 
 > > This article or section contains 'musings' - developmental notes, not yet codified.
 
-> [!Quote] [[nu-mantia-intercept|Nu-Mantia Intercept]]
-> ![[nu-mantia-intercept#What are the Towers?]]
+> [!Quote] [[nu-mantia-intercept#What are the Towers?|Nu-Mantia Intercept]]
+> ![[nu-mantia-intercept#What are the Towers?|clean]]
 
-> [!Quote] [[nu-mantia-intercept|Nu-Mantia Intercept]]
-> ![[nu-mantia-intercept#What are the Stones?]]
+> [!Quote] [[nu-mantia-intercept#What are the Stones?|Nu-Mantia Intercept]]
+> ![[nu-mantia-intercept#What are the Stones?|clean]]
 
 > [!Musings]
 > It would seem that the Daedric Princes were only able to form their realms by using left over [[creatia]].
 
-> [!Quote] [[nu-mantia-intercept|Nu-Mantia Intercept]]
-> ![[nu-mantia-intercept#^ef47ee]]
+> [!Quote] [[nu-mantia-intercept#^ef47ee|Nu-Mantia Intercept]]
+> ![[nu-mantia-intercept#^ef47ee|clean]]
 
 > [!Musings]
 > [[azura|Azura]] would also have access to creatia. Perhaps that is what she used to create Lyithdonea. If there's any truth to the legend of [[the-translation|The Translation]].

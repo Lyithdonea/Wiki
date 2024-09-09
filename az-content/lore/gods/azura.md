@@ -30,8 +30,8 @@ Azura has two forms. Her first form is the calm, serene one in which she appears
 
 Her second form is her war-form, an embodiment of the untamed energies of the Dawn; for more information on her appearance in this form, read “[[azura-the-angel|Azura the Angel]].” Suffice to say she appears as a bare-breasted, golden skinned woman, with dark, flowing hair, claws of unimaginable strength, and twilit wings arced behind her.
 
-> [!Quote] [[mark-nelsons-posts|Mark Nelson's Posts]]
-> ![[mark-nelsons-posts#On Daedra as Good or Evil]]
+> [!Quote] [[mark-nelsons-posts#On Daedra as Good or Evil|Mark Nelson's Posts]]
+> ![[mark-nelsons-posts#On Daedra as Good or Evil|clean]]
 
 The player encounters her in this form only towards the end of the Lyithdonea main quest when Aesmandroth attacks Azura City. In this form, her aspect is much more ferocious and compulsive. Her speech is baser, similar to how she spoke during [[the-trial-of-vivec#^3ce943|The Trial of Vivec]].
 ## Dialogue
