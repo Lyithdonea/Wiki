@@ -11,64 +11,30 @@ tags:
   - daedra
 description: Azura is a Daedric Prince whose sphere is dawn and dusk - the magic in-between realms of twilight - as well as mystery and magic, fate and prophecy, and vanity and egotism.
 ---
-### [UESP](https://en.uesp.net/wiki/Lore:Azura)
+## Spheres of Influence
+Azura's spheres of influence include [[feyfolken#^8fdf8a|artistic expression]], [[the-lost-prophecy#^813b04|magic, fate, and prophecy]], [[the-book-of-daedra#^eee1f9|dusk and dawn, the magic in-between realms of twilight]].
 
-### AZ
-#### Spheres of Influence
-> "You said it was a daedra," said Taksim. "And it seems to have something to do with artistic expression. Was Feyfolken a servitor of Azura?" [Feyfolken II](https://en.uesp.net/wiki/Lore:Feyfolken_II)
+Azura's [[words-of-clan-mother-ahnissi#^847d55|knowledge of the First Secret]] may influence her ability to affect racial appearances. She used this ability in the Khajiit creation myth and is attributed with cursing the [[chimer|Chimer]]'s appearance into becoming the Dunmer people.
 
-Azura is associated with artistic expression.
+Azura claimed to have [[nerevar-at-red-mountain#^d48870|used her powers over Dawn and Dusk to reincarnate Nerevar]].
 
-> 'Star-blessed' suggests Azura, the Daedra Lord and patron of magic, fate, and prophecy. [The Lost Prophecy](https://en.uesp.net/wiki/Morrowind:The_Lost_Prophecy)
-
-So Azura is also patron of magic, fate, and prophecy.
-
-> Azura is the Lord of [[moonshadow|Moonshadow]], whose sphere is dusk and dawn, the magic in-between realms of twilight.
-
-> Azura is the Daedra of dusk and dawn, transition periods. One might argue that she is at her strongest during these moments however this does not in itself explain why she could change the Dunmer so drastically. To do almost anything on this magnitude every other Daedra needs to be present in person. Thing is, she's done this before. When Mundus was still in the chaos of the Dawn and everything was stuck between plant and mer, she provided a stable form for the Khajiit.
-> 
-> *“And Nirni stopped weeping, and Azurah spoke the First Secret to the Moons and they parted and let Azurah pass. And Azurah took the forest people who were torn between man and beast, and she placed them in the best desserts and forests on Nirni.- Words of the Clan Mother”*
-> 
-> She seems to have been able to do this because she knows the first secret, the one that lets Daedra pass the moons, the barrier. What the first secret is, I don't know and it doesn't provide much of an answer beyond explain that Azura could change the Dunmer because she knew how too.
-
-Azura's ability to affect racial appearances.
-
-> “Then Azura came forth anyway and cursed the Tribunal for their foul deeds. She told them that she would use her powers over dusk and dawn to make sure Nerevar would come back and make things right again.”
-
-So, how would Azura use Dawn and Dusk to reincarnate Nerevar?
-
-> To AZURA the Rim of all Holes
-
-Description and prayer to Azura.
-#### Motivations (Main Storyline)
+Azura is also described as "[[pocket-guide-to-the-empire-1st-edition#^6db16e|the Rim of all Holes]]". It is unclear if this is in reference to her ability to pass through the lunar lattice or something more obscure.
+## Motivations (Main Storyline)
 Queen of the Night Sky, Mother of the Rose, Lady of Dawn and Dusk; Azura is generous to her faithful, vengeful on her adversaries, jealous, and selfish. But then, which Daedra are not? Therefore, if something does not go according to plan, Azura will not become angry, she seldom does. Instead she will tactfully alter her plot to achieve her goals and hurt the ones who thwarted her plans. It is often difficult to tell the difference between Azura’s self-focused will, and the arbitrary good of it all. Although Lady Azura is a jealous lord, she strongly protects her faithful. Beauty is paramount to Azura. Reflect on her realm, its city of silver and her rose palace. Her love of beauty evolved into a desire for perfection. Azura may not expect total perfection of her mortal [[house-azura|House Azura]], but her Daedra are bound by other laws. Therefore her son, [[aesmandroth|Aesmandroth]], was held to a high standard. Thus his waywardness and individuality which sprouted from his mortality lead to his exile from [[moonshadow|Moonshadow]].
 
 Azura’s reaction to Aesmandroth’s hostility is that she wishes him dead. He is in the way, he insults her, and he abducts her people. Consider the Tribunal: they betrayed Nerevar, one of Azura’s servants. She then cursed the [[chimer|Chimer]] and later used the Nerevarine to topple ALMSIVI. Notice how she never mentioned until the end that vanquishing the Heart would remove the Tribunal’s power, even if it was assumed. She operates in a hidden fashion, claiming that the Tribunal are false gods anyway. Azura is crafty; every rose has its thorn - and Azura is thorny indeed. But her immediate goal seems to be saving her people from her son’s wrath, and punishing him severely.
-#### Personality
+## Personality
 Azura doesn’t like Vampires. Hence her quest in oblivion.
 
 Azura has two forms. Her first form is the calm, serene one in which she appears to the Nerevarine: Blue evening gown, pinned up hair, Dunmer woman.
 
 Her second form is her war-form, an embodiment of the untamed energies of the Dawn; for more information on her appearance in this form, read “[[azura-the-angel|Azura the Angel]].” Suffice to say she appears as a bare-breasted, golden skinned woman, with dark, flowing hair, claws of unimaginable strength, and twilit wings arced behind her.
 
-> "Some people think of Azura as a 'good' Daedra. That could end up being a very dangerous misconception in the Elder Scrolls world." **Mark Nelson (BlueDev)**
+> [!Quote] [[mark-nelsons-posts|Mark Nelson's Posts]]
+> ![[mark-nelsons-posts#On Daedra as Good or Evil]]
 
-The player encounters her in this form only towards the end of the Azurian Isles mainquest when Aesmandroth attacks Azura City. In this form, her aspect is much more ferocious and compulsive. Her speech is baser, similar to how she spoke during the Trial of Vivec.
-
-> "AZURA IS COME"
-> "YES I AM PLEASED"
-> "GIFTS? WRAITHRING SHADOW MONSTER CROWN STAR GOOD QUESTION"
-> "DEVIL DEVIL MOCK DEVIL DEVIL SPEAK NOT"
-> "WHAT? WHAT ARE YOU DOING? WHAT IS THAT I FEEL?"
-> "WHAT NO DEVIL PLEASE NO NO NO"
-> "NO DEVIL NO PLEASE STOP"
-> "GAHAAAAA NO NO NO PLEASE NO WHATTTTTTttT NO DEVIL PLEASE NO I CANNOT"
-> "I CANNOT FEEL CANNOT WHAT FEEL CANNOT WHO FEEL THIS WHAT I CANNOT"
-> "CHIM? HOW?"
-
-So her dialogue should sound, base, like that.
-
-#### Dialogue
+The player encounters her in this form only towards the end of the Lyithdonea main quest when Aesmandroth attacks Azura City. In this form, her aspect is much more ferocious and compulsive. Her speech is baser, similar to how she spoke during [[the-trial-of-vivec#^3ce943|The Trial of Vivec]].
+## Dialogue
 ##### Azura speaking to the Nerevarine
 Azura speaks of how the Nerevarine was not tricked during his conquest against House Dagoth.
 
@@ -133,9 +99,3 @@ Azura: Nirn will not be destroyed. The Heart was a key which kept the barriers b
 Nirn will be absorbed into Oblivion. Every last offspring whether mer, man or beast will return to the plane of their lord, Aedroth or Daedroth. What comes after is myth.
 
 Azura: Go now, friend. Speak of this if you will, but it shall do little good or ill.
-
-#### Topics
-
-```query
-tag:topic/azura
-```
