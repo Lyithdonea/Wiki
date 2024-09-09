@@ -15,11 +15,8 @@ description: The Towers are ancient structures on Nirn which date back to as ear
 > > 
 > > This article or section contains 'musings' - developmental notes, not yet codified.
 
-> [!Quote] [[nu-mantia-intercept#What are the Towers?|Nu-Mantia Intercept]]
-> ![[nu-mantia-intercept#What are the Towers?|clean]]
-
-> [!Quote] [[nu-mantia-intercept#What are the Stones?|Nu-Mantia Intercept]]
-> ![[nu-mantia-intercept#What are the Stones?|clean]]
+> [!Quote] [[nu-mantia-intercept#^16fadd|Nu-Mantia Intercept]]
+> ![[nu-mantia-intercept#^16fadd|clean]]
 
 > [!Musings]
 > It would seem that the Daedric Princes were only able to form their realms by using left over [[creatia]].

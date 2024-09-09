@@ -144,14 +144,16 @@ I take my right to present two more, however, as under the Invocation of the Inv
 ## Letter #7
 
 ### What are the Stones?
+> [!note|clean no-title]
+> The Stones are magical and physical echoes of the Zero Stone, by which a Tower might focus its energy to mold creation. Oftentimes, the Stones borrowed surplus creation from Oblivion, grafting it to the terrestrial domain of its anointed Tower.
+> 
+> It was and is difficult to bypass Oblivion to go directly to creation’s source, the Aetherius. It has been done, but not without great expenditure, mundane and otherwise. However, access to Oblivion, the Void that surrounds Mundex Arena, which we might touch every night, was child’s play in comparison.
+> 
+> Cultivating creatia that washed into the Void from Aetherius became the rule among Stones.
+> 
+> The Daedric Realms were formed on much the same principle: padomaic powers using aetherial refuse to build their void-territories. The Towers built on the Mundus, since the lands around them congealed in the absence of the gods, were unable to match the capriciousness of the Lords of Misrule.
 
-The Stones are magical and physical echoes of the Zero Stone, by which a Tower might focus its energy to mold creation. Oftentimes, the Stones borrowed surplus creation from Oblivion, grafting it to the terrestrial domain of its anointed Tower.
-
-It was and is difficult to bypass Oblivion to go directly to creation’s source, the Aetherius. It has been done, but not without great expenditure, mundane and otherwise. However, access to Oblivion, the Void that surrounds Mundex Arena, which we might touch every night, was child’s play in comparison.
-
-Cultivating creatia that washed into the Void from Aetherius became the rule among Stones.
-
-The Daedric Realms were formed on much the same principle: padomaic powers using aetherial refuse to build their void-territories. The Towers built on the Mundus, since the lands around them congealed in the absence of the gods, were unable to match the capriciousness of the Lords of Misrule.
+^16fadd
 
 _Sometimes_.
 
