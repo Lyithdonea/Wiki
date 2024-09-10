@@ -13,6 +13,17 @@ description: A book detailing the Rosery of Azura faction.
 author:
   - Melchior Dahrk
 ---
+> [!infobox|n-th]
+> 
+> ## Book Information
+> 
+> ![[icon-mw-book-01.png]]
+> 
+> | Type | Name |
+> | --- | --- |
+> | Writer | Melchior Dahrk |
+> | ID | az_bk_roseryofazura |
+
 by High Priestess Anuala Dramuhn 3E 336  
 
 Dear Faithful, Azura willing the reading of this text will edify you in the knowledge of Our Lady and Her Sacred Azuran Rosery. Through practice and studying, greater blessings may be granted to the Holy Proselyte.  

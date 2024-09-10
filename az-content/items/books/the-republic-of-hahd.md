@@ -10,8 +10,20 @@ tags:
   - OOG
 description: A mysterious underwater society which caused a brief stir among the people of Summerset and Cyrodiil.
 author:
-  - Melchior Dahrk
+  - Michael Kirkbride
 ---
+> [!infobox|n-th]
+> 
+> ## Book Information
+> 
+> ![[icon-mw-book-01.png]]
+> 
+> | Type | Name |
+> | --- | --- |
+> | Source | Elder Scrolls Forum |
+> | Writer | Michael Kirkbride |
+> | ID | az_bk_therepublicofhahd |
+
 Hahd is ostensibly an underwater country below the tip of what was once the Dellesian peninsula. Its government is not recognized by any under Imperial authority. As its people, also called Hahd, have made no trouble whatsoever for anyone in history (save once), this same government has never been contested, either. That Hahd is documented here at all is because of the singular time the Republic had an effect on Tamrielic affairs (which also marks the first time any of the known peoples had heard of it), and by some kind and enabling words of a mapmaker.  
   
 In the early third era, the Altmeri Keepers of the Orrery of Firsthold suddenly paid tariffs to the Empire on behalf of the Republic of Hahd for "submersible exports of mnemolichite to the Emirates of Nahd". While the Septim Regime was glad to receive the not un-trivial amount of the tariff expense, it did demand to know three things: one, what and where was Hahd, two, what exactly was mnemolichite, and three, what and where was Nahd.  
@@ -31,3 +43,7 @@ That same year, the Isle of Artaeum disappeared again. Reluctant rescue operatio
 Captain Eel began to read the manuscript immediately, if only out of a blood-guilt to restore the unsatisfied honor of his ancestor. He was only a few paragraphs in when he realized, to his astonishment, the book's true nature. It was not, as its title might suggest, a fable about Nahd from the denizens of Hahd, but rather a fable about Hahd from some unknown writer of Nahd. The eponymous dervish was some kind of "air-breathing sea-soldier, formerly of the Republican Guard", who was either protecting or wooing "that maiden to first hold the star-minerals of heaven". Perhaps most troubling was the author ("a humble Nahd of Nahd") and his nearly rote-written preface, which clearly, if uncreatively, indicated that the book was part of a large series or maybe even a shared universe, whose twin anchor points were always the same: an obsession with Hahd and the "powers" of mnemolichite. The latter was never adequately explained in the manuscript, nor has it ever been.  
   
 It is the belief of this Survey Agent that any description of the true nature of mnemolichite was as unneeded for the story's intended audience as an explanation of the sun's true nature would be for a citizen of Tamriel. It was also the belief of this Survey Agent that the regions of Hahd and Nahd not be written of here at all, since no real answers of their disparate (?) peoples, lands, or cultural make will likely surface, and that that futility is not befitting of our society. It is to my great friend and colleague, Senior Cartographer Rinmaut, that I dedicate this lengthy passage to him and his words of convincing, "Those places that cannot be mapped, they should never cry avast to our pens to stop and try."
+
+***
+## Notes
+This article uses material from the UESP article ["General:The Republic of Hahd"](https://en.uesp.net/wiki/General:The_Republic_of_Hahd). It is licensed under the ​[Creative Commons by-sa license](https://creativecommons.org/licenses/by-sa/2.5/).

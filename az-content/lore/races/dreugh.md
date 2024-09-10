@@ -20,7 +20,7 @@ Alongside the common Dreugh seen in the base game, Dreugh Man o’ War’s are a
 ## Culture
 Dreughs are said to have lived in castles of glass and coral. [^7] They have knowledge of the Water Face which cannot lie and they taught this ability to Vivec. [^8] Some of their names are not easy to spell. [^9] Dreugh are sometimes referred to as an elvish race: Vivec calls them the "Altmer of the sea" and they have also been called cepholomer. [^10] [^11]
 ## History
-It is said that the Dreugh ruled the world a long time ago from their "slave oceans", possibly in a previous kalpa. At that time, Molag Bal was their chief and assumed a spiny and armored appearance which was suitable for life in the sea. [^12] [^13] An entity known as the Ruddy Man is credited with being the father of the Dreugh. [^14] It is possible that the Dreugh lost their hold over the world due to a curse. [^15]
+It is said that the Dreugh ruled the world a long time ago from their "slave oceans", possibly in a previous kalpa. At that time, Molag Bal was their chief and assumed a spiny and armored appearance which was suitable for life in the sea. [^12] [^13] An entity known as the Ruddy Man is credited with being the father of the Dreugh. [^14] It is possible that the Dreugh lost their hold over the world due to a curse. [^15] 
 
 [^1]: [[tes3-dialogue#^545563|TES3 Dialogue]]
 [^2]: [[tes3-dialogue#^5e6ff9|TES3 Dialogue]]

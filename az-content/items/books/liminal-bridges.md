@@ -12,6 +12,17 @@ tags:
   - TES4
 description: A Discourse On The Theory and Praxis of Traveling Between Mundus and Oblivion.
 ---
+> [!infobox|n-th]
+> 
+> ## Book Information
+> 
+> ![[icon-mw-book-01.png]]
+> 
+> | Type | Name |
+> | --- | --- |
+> | Source | Oblivion |
+> | ID | az_bk_LiminalBridges |
+
 A Discourse On The Theory and Praxis of Travelling Between Mundus and Oblivion  
 
 by Camilonwe of Alinor  

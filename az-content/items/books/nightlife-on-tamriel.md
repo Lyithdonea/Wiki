@@ -11,6 +11,17 @@ tags:
   - original
 description: A description of the sleeping and waking hours during the night.
 ---
+> [!infobox|n-th]
+> 
+> ## Book Information
+> 
+> ![[icon-mw-book-01.png]]
+> 
+> | Type | Name |
+> | --- | --- |
+> | Writer | Unknown |
+> | ID | az_bk_nightlifeoftamriel |
+
 By Fellow Spectrom Ete of the Padomaic & Anuic Influences Society  
 
 Night time in Tamriel is often dangerous or peaceful, prophetic and spiritual.  

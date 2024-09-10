@@ -11,8 +11,21 @@ tags:
   - rare
   - OOG
 description: An imperial description of the Daedric Princes and their realms.
-author: Michael Kirkbride
+author:
+  - Michael Kirkbride
 ---
+> [!infobox|n-th]
+> 
+> ## Book Information
+> 
+> ![[icon-az-book-impcensusofdaedra.png]]
+> 
+> | Type | Name |
+> | --- | --- |
+> | Source | Elder Scrolls Forum |
+> | Writer | Michael Kirkbride |
+> | ID | az_bk_imperialcensusofdaedra |
+
 By Brother Mikhael Karkuxor of the Imperial College  
 
 Azura, Lord of Dusk and Dawn, maintains the domain of Moonshadow, a twilight country of shades and half-thoughts. Visitors to this isle have historically come mainly from the Dunmer of eastern Morrowind and the catfolk of Elsweyr, whose people both hold a great affection for the mother of immanence, though by separate roads.  
@@ -46,3 +59,7 @@ Sanguine, Prince of Hedonism, lords over no less than ten times ten thousand ple
 Sheogorath’s Asylums have been closed by consensus of the Elder Council until further notice. It is mentioned here only for the sake of completeness.  
   
 Vaermina, Prince of Omen and Dream, shares a special mageographic connection with the Mundus, since mortal sleepers often slip into her realm without any help at all. Traditional sacrifice to Vaernima is held on the 10th of Suns Height, but as with most luck spirits, prayers to this Daedric Prince occur quite frequently, and not always before bedtime.
+
+***
+## Notes
+This article uses material from The Imperial Library page ["Imperial Census of Daedra Lords"](https://www.imperial-library.info/content/imperial-census-daedra-lords). It is licensed under the ​[Creative Commons by-sa license](https://creativecommons.org/licenses/by-sa/2.5/).

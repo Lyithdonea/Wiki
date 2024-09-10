@@ -15,6 +15,17 @@ description: A book on Tsaesci physiology.
 author:
   - "\rMaering_Bear-Poker"
 ---
+> [!infobox|n-th]
+> 
+> ## Book Information
+> 
+> ![[icon-mw-book-01.png]]
+> 
+> | Type | Name |
+> | --- | --- |
+> | Writer | Maering_Bear-Poker |
+> | ID | az_bk_honorandmoderation |
+
 By Maering Bear-Poker  
 ## A Brief Introduction:  
 Long has it been since a true Tsaesci was seen in Tameriel. Though their influence on the Empire has lasted throughout the ages since the waning years of the First Era, the Tsaesci themselves have vanished. Whether through murderous plots, reimigration to Akavir, or full assimilation into the Nibenean populace; these mysterious snake-men leave only traces of their presence here on Tamriel.  

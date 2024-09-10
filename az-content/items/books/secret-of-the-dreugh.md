@@ -12,9 +12,21 @@ description: An interview between a Dunmer and an ancient dreugh warlord.
 author:
   - Melchior Dahrk
 ---
+> [!infobox|n-th]
+> 
+> ## Book Information
+> 
+> ![[icon-mw-book-01.png]]
+> 
+> | Type | Name |
+> | --- | --- |
+> | Writer | Melchior Dahrk |
+> | ID | az_bk_secretofthedreugh |
+
 by Yue Athmaua  
 
-> Introduction by Mespis Ferro, Imperial Archivist: The entirety of this account is based on the research of Yue Athmaua a Dunmer Mage from Port Telvannis. As can be seen from the text he claims to have socialized with a group of dreugh. The manuscript was written as a type of informational autobiography and interview. The reader must judge the veracity of this report.  
+> [!Note] Introduction by Mespis Ferro, Imperial Archivist
+> The entirety of this account is based on the research of Yue Athmaua a Dunmer Mage from Port Telvannis. As can be seen from the text he claims to have socialized with a group of dreugh. The manuscript was written as a type of informational autobiography and interview. The reader must judge the veracity of this report.  
   
 Thyadveel cyaokui lkunzoewtna vae Sdirgeaumgyhk? I have. I breathed with the spawn of Nmiolliahgl for thirty months. At least that is how long I measured it. First, let me answer the question many have: They did not attack you? Becoming something else is only a matter of mimicking it closely enough that observers cannot tell the difference. I will only say that upon my return I was forced into a hermetic lifestyle to avoid judging eyes for what I had to become.  
   

@@ -12,6 +12,17 @@ tags:
   - original
 description: A promotional booklet published by House Azura.
 ---
+> [!infobox|n-th]
+> 
+> ## Book Information
+> 
+> ![[icon-mw-book-01.png]]
+> 
+> | Type | Name |
+> | --- | --- |
+> | Writer | Melchior Dahrk |
+> | ID | az_bk_findingtherose |
+
 By Councilor Galeym Ristraro  
 
 So you have made it to the Isles of Azura, traveler. Do you seek beauty and truth or power and lies? Ask yourself questions such as this before considering oath with House Azura.  

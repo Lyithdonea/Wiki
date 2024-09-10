@@ -11,8 +11,20 @@ tags:
   - rare
   - original
 description: An Ouag Tong initiation book.
-author: Melchior Dahrk
+author:
+  - Melchior Dahrk
 ---
+> [!infobox|n-th]
+> 
+> ## Book Information
+> 
+> ![[icon-mw-book-01.png]]
+> 
+> | Type | Name |
+> | --- | --- |
+> | Writer | Melchior Dahrk |
+> | ID | az_bk_thenautican |
+
 Ouashok, friend. Welcome to the Nautican.
 
 Historians will say that time hides all things. But what is time to the Ocean? What is hidden by sea-sand that cannot again be uncovered? The currents of the Ocean flow upward, downward, forward, backward, and sideward. Just so is time boundless in the realm of Grandfather Ocean. The shifting sea-sand hides a multitude of secrets in her salty bosom. These trinkets of uncovery hold truths of the past, guiding us here in the future. We live in yestermorrow, watching the tides roll in.

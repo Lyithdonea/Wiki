@@ -12,6 +12,17 @@ tags:
 description: 
 author:
 ---
+> [!infobox|n-th]
+> 
+> ## Book Information
+> 
+> ![[icon-mw-book-01.png]]
+> 
+> | Type | Name |
+> | --- | --- |
+> | Writer | Unknown |
+> | ID | az_bk_shoroftheshore |
+
 Magister Gamding,  
 I have found the Nord you were looking for. He was working the wharfs of Windhelm, loading cargo onto ships. I told him that he was of great interest to the Guild, but he merely laughed at the notion and informed me that I most likely preferred libations of the lactic variety. As I suspected, an appeal to the scholarly pursuits of our organization did not sway the brute. I offered to buy him all the meat, cheese, and ale he could drink at the local tavern once his shift ended, and the grunt he gave in reply sounded agreeable enough. Skjornheim Floe-Pilot, known since his return to Skyrim as Skjornheim Pearl-Eye, was indeed more inclined to talk about his time in Pyandonea once he had ingested a few flagons of foul-smelling ale. I have included the interview, but please note that he was quite inebriated and taken to exaggeration; I am not certain how much his account can be trusted.  
 

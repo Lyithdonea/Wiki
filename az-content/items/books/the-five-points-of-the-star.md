@@ -11,6 +11,17 @@ tags:
   - ESO
 description: Five major aspects of Azura worship.
 ---
+> [!infobox|n-th]
+> 
+> ## Book Information
+> 
+> ![[icon-mw-book-01.png]]
+> 
+> | Type | Name |
+> | --- | --- |
+> | Source | Elder Scrolls Online |
+> | ID | az_bk_thefivepointsofthestar |
+
 by Sigillah Parate  
 
 PROPHECY is her province, and that which is seen by the Night Sky Queen must eventuate, however dimly it may appear to mortal foresight. For mortals are not all given the gift of Crystal Vision, nor can they always endure knowledge of the truth.

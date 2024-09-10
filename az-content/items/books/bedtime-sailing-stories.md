@@ -15,6 +15,17 @@ description: A longwinded Nordic bedtime story about sailing around in circles.
 author:
   - RubberMan
 ---
+> [!infobox|n-th]
+> 
+> ## Book Information
+> 
+> ![[icon-mw-book-01.png]]
+> 
+> | Type | Name |
+> | --- | --- |
+> | Writer | RubberMan |
+> | ID | az_bk_sailingstories |
+
 by Stas Holodnak  
 
 Wrestling with the wind.  

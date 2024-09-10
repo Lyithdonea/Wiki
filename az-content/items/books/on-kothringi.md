@@ -11,6 +11,17 @@ description: An account from someone who visited the Kothringi people of Black M
 author:
   - Omn1
 ---
+> [!infobox|n-th]
+> 
+> ## Book Information
+> 
+> ![[icon-mw-book-01.png]]
+> 
+> | Type | Name |
+> | --- | --- |
+> | Writer | Omn1 |
+> | ID | az_bk_OnKothringi |
+
 By Marcus "Omni" Caestus  
 
 Having spent the past several months among them, I have taken it upon myself to dispel rumors and spread information regarding the human inhabitants of Blackmarsh. Despite some initial trouble in getting them to communicate, I have spoken to many Kothri tribesmen at length in regards to their culture and customs.  

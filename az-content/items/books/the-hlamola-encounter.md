@@ -14,6 +14,17 @@ description: An account of House Azura's conquest of Lyithdonea from their persp
 author:
   - Melchior Dahrk
 ---
+> [!infobox|n-th]
+> 
+> ## Book Information
+> 
+> ![[icon-mw-book-01.png]]
+> 
+> | Type | Name |
+> | --- | --- |
+> | Writer | Melchior Dahrk |
+> | ID | az_bk_thehlamolaencounter |
+
 By Jehstis Uvare  
 
 After Lady Azura moved the isles into being and had rested a while in the Shadow of the Moon, she returned again to Nirn. She came this time to gather her faithful and take them to her isles. Those of the priestly House Azura were quick to answer her summons. For their kinsmen had begun to resent Azura for the curse they had been bestowed. Therefore it was that the Lady led all of House Azura across the sea to their new home.  

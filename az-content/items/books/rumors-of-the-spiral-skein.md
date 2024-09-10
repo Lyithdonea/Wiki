@@ -10,6 +10,17 @@ tags:
   - ESO
 description: Notes on Mephala's realm and the Pillar Palace.
 ---
+> [!infobox|n-th]
+> 
+> ## Book Information
+> 
+> ![[icon-mw-book-01.png]]
+> 
+> | Type | Name |
+> | --- | --- |
+> | Source | Elder Scrolls Online |
+> | ID | az_bk_rumorsofthespiralskein |
+
 by The Derisive Necromite  
 
 Mephala! Webspinner! Teacher of the Secret Arts! Queen of the Eight Shadows of Murder! Though others may reign over us, deep in the night we still hear your whisper!  

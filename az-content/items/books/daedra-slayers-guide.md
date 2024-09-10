@@ -14,6 +14,16 @@ description: A guide to killing minor Daedra. In-game, each volume is a separate
 author:
   - Melchior Dahrk
 ---
+> [!infobox|n-th]
+> 
+> ## Book Information
+> 
+> ![[icon-az-book-leatherbound.png]]
+> 
+> | Type | Name |
+> | --- | --- |
+> | Writer | Melchior Dahrk |
+> | ID(s) | az_bk_DaedraSlayer_appA, az_bk_DaedraSlayer_vol1, az_bk_DaedraSlayer_vol2, az_bk_DaedraSlayer_vol3, az_bk_DaedraSlayer_vol4 |
 ## Introduction  
 Daedra hail from the hellish plane of Oblivion. They are most often encountered in Tamriel as a result of sorcerous summoning. Something most common folk have little experience with. But the astute adventurer will arm themselves with the knowledge necessary for defeating these otherworldly foes. This comprehensive series of guides, compiled by a veteran Daedra-slayer, will provide the necessary tips and secrets for defeating the most common types of daedra.  
 ## Volume I

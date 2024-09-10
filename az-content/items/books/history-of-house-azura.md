@@ -14,6 +14,16 @@ tags:
   - nonfiction
 description: A brief history of House Azura.
 ---
+> [!infobox|n-th]
+> 
+> ## Book Information
+> 
+> ![[icon-mw-book-01.png]]
+> 
+> | Type | Name |
+> | --- | --- |
+> | ID | az_bk_historyofhouseazura |
+
 By Chemrad Telloc and Gaynes Pammu  
 
 This comprehensive guide has been compiled as a documentary of the broad history regarding the foundation of House Azura as a sovereign reigning power in the Azurian Isles. This manuscript does not seek explicit explanation of all occurrences mentioned herein. For more detailed descriptions, the reader is encouraged to seek out the additional books referenced in this paper.  

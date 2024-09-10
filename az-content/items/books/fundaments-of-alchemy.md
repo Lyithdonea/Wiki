@@ -13,6 +13,17 @@ tags:
   - TES4
 description: A fundamental primer on alchemy
 ---
+> [!infobox|n-th]
+> 
+> ## Book Information
+> 
+> ![[icon-az-book-fundamentsofalchemy.png]]
+> 
+> | Type | Name |
+> | --- | --- |
+> | Source | Oblivion |
+> | ID | az_bk_FundamentsOfAlchemy |
+
 By Alyandon Mathierry  
 
 Often overlooked by aspiring mages, Alchemy is a time-honored, rewarding discipline that can change the lives of those who master it. It is difficult, and often dangerous, to advance one's knowledge of the materials used in alchemical formulas, but continued study and hard work will, in the end, reward the alchemist greatly.  

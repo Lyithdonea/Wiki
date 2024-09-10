@@ -13,8 +13,20 @@ tags:
   - niche
   - original
 description: A questionable account of how Lyithdonea was formed.
-author: Melchior Dahrk
+author:
+  - Melchior Dahrk
 ---
+> [!infobox|n-th]
+> 
+> ## Book Information
+> 
+> ![[icon-mw-book-01.png]]
+> 
+> | Type | Name |
+> | --- | --- |
+> | Writer | Melchior Dahrk |
+> | ID | az_bk_translation |
+
 ## Forward
 by Faleno Sorveyn, Scribe
 

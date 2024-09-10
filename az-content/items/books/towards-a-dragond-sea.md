@@ -14,6 +14,18 @@ description: A series of books about Cathnoquey.
 author:
   - Michael Kirkbride
 ---
+> [!infobox|n-th]
+> 
+> ## Book Information
+> 
+> ![[icon-az-book-impcensusofdaedra.png]]
+> 
+> | Type | Name |
+> | --- | --- |
+> | Source | Bethesda Softworks Forum |
+> | Writer | Michael Kirkbride |
+> | ID(s) | az_bk_towardsadragondsea_vol1, az_bk_towardsadragondsea_vol2, az_bk_towardsadragondsea_vol3, az_bk_towardsadragondsea_vol4, az_bk_towardsadragondsea_vol5 |
+
 By Brother Mikhael Karkuxor of the Imperial College
 ## Volume 1  
 Of all the Imperial Provinces in the Padomaic Ocean, Cathnoquey is the newest to join its ranks. Before being formally reorganized under the terms of the Veto of Charter and Decree of New Lordships \[3E307\], the archipelago was first established as a Third Empire Territory in 3E276 under Emperor Uriel V, "The Fighting Diamond".  
@@ -79,3 +91,8 @@ It should be noted here that after this persecution ended, missionaries of Stend
 > After the Disaster at Ionith and the retreat of the Cyrodilic navy back to Tamriel, there was little reason for the Empire to keep either resupply stations or legion garrisons in Cathnoquey. That changed with the discovery of "the Wasabi Run," a trickle of shoals and small islets whose every available surface had been cultivated in swirling garden crops of a tibrol-based wasabi. Wasabi is as lucrative a trade in Skyrim as skooma is to the hinterlands of the south and east, with the added benefit of actually being legal. Withdrawal of the occupying forces from Cathnoquey was stalled in 3E306, to give the Treasury Agents of Outland Holdings time to surreptitiously tally a drake-value annual return based on exploitation of the wasabi gardens. Only a year later, a wholly-endorsed provincial investiture was won by Veto at White-Gold Tower, opposed only by the powerful, and corrupt,"Blackmouth Counts" of the Cheydanene districts.
 > 
 > During the Treasury’s investigations, the Quey naturally denied having created these gardens in their alien and insouciant way, shrugging as if the mystery was really quite obvious. To their credit, the Quey had never been actually seen trading wasabi at market in the thirty years of Imperial occupation. When their "untitled leaders" were questioned how it got there and who its gardeners were, they merely told the Imperials that "it showed up when you did". Under torture, the origins of the Wasabi Run and its careful cultivation were made even less clear, with variations of a single answer: "you needed something from Cathnoquey, so it gave it to you. You are Quey now, so stop hurting yourself".
+
+
+***
+## Notes
+This article uses material from the Bethesda Softworks Forum post ["Towards a Dragon'd Sea: Cathnoquey"](https://web.archive.org/web/20161023201913/http://forums.bethsoft.com/topic/1327126-towards-a-dragond-sea-cathnoquey/). It is licensed under the ​[Creative Commons by-sa license](https://creativecommons.org/licenses/by-sa/2.5/).

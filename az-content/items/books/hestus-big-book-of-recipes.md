@@ -14,6 +14,17 @@ description: Hestus Ram's copy of Velothi Cooking Secrets Volume I.
 author:
   - RubberMan
 ---
+> [!infobox|n-th]
+> 
+> ## Book Information
+> 
+> ![[icon-mw-book-01.png]]
+> 
+> | Type | Name |
+> | --- | --- |
+> | Writer | RubberMan |
+> | ID | az_bk_cooking_open |
+
 \[excerpts\]  
   
 Salt 'n' Pepper Guar  

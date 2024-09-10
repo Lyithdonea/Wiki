@@ -10,6 +10,17 @@ tags:
   - ESO
 description: A poem dedicated to the Daedric Princes
 ---
+> [!infobox|n-th]
+> 
+> ## Book Information
+> 
+> ![[icon-mw-book-01.png]]
+> 
+> | Type | Name |
+> | --- | --- |
+> | Source | Elder Scrolls Online |
+> | ID(s) | az_bk_darkestdivinities, az_bk_darkestdivinities_o |
+
 Though man and mer knew sin  
 since time began,  
 The Daedric Princes  

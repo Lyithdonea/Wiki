@@ -3,6 +3,7 @@ title: Whispers
 aliases:
   - Whispers
   - Whispers On Snakekin To Ears Young and Shells Soft
+  - Whispers On Snakekin
 tags:
   - az_
   - current
@@ -13,6 +14,17 @@ tags:
   - original
 description:
 ---
+> [!infobox|n-th]
+> 
+> ## Book Information
+> 
+> ![[icon-mw-book-01.png]]
+> 
+> | Type | Name |
+> | --- | --- |
+> | Writer | Turokman2000 |
+> | ID(s) | az_bk_whispers_vol1, az_bk_whispers_vol2 |
+
 \[The main text of this book is written in an Akaviri script, but there is a translation in the margins.\]  
 ## Volume 1
 Listen close and hear the dragon breathe.  

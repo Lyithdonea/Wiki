@@ -13,6 +13,16 @@ description: Rules for membership of the Mages Guild. With an attachment dealing
 author:
   - Melchior Dahrk
 ---
+> [!infobox|n-th]
+> 
+> ## Book Information
+> 
+> ![[icon-mw-book-01.png]]
+> 
+> | Type | Name |
+> | --- | --- |
+> | ID | az_bk_charterMG |
+
 ## I. Purpose  
   
 The Guild of Mages provides benefits to scholars of magic and established laws regarding the proper use of magic. The Guild is dedicated to the collection, preservation, and distribution of magical knowledge with an emphasis on ensuring that all citizens of Tamriel benefit from this knowledge. Specifically, the Guildhall in the Azurian Isles was established primarily to research and possibly channel the strong daedric magicka coursing through the archipelago. Secondarily, the hall was established as an elite campus for training members in the Schools of Magicka.  

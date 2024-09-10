@@ -11,8 +11,20 @@ tags:
   - popular
   - original
 description: An explanation of the Ouamer people who live in Lyithdonea.
-author: Melchior Dahrk
+author:
+  - Melchior Dahrk
 ---
+> [!infobox|n-th]
+> 
+> ## Book Information
+> 
+> ![[icon-mw-book-01.png]]
+> 
+> | Type | Name |
+> | --- | --- |
+> | Writer | Melchior Dahrk |
+> | ID | az_bk_elvesoftheisles |
+
 By Charmagi Westayn
 
 If you travel to the Thousand Isles region in the southwestern area of the Azurian Isles, you will undoubtedly encounter an [[ouamer|Ouamer]] in some way or another. Ouamer are paler than the typical [[chimer|Chimer]]. Explanations for this difference vary. Some accounts place significance on diet, others blame the murky environment, or the bodily masking techniques Ouamer have been known to use for religious purposes. If you ask an elf of House Azura, they will tell you that the Ouamer are mongrels, with Maormeri blood in their veins. The Ouamer care little for explaining such things to outlanders. So the true reason for this alteration remains a mystery to all but the Ouamer, if even they remember.

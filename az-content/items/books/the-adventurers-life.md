@@ -9,8 +9,20 @@ tags:
   - popular
   - original
 description: A story about an unexpected change in vocation for an adventurer.
-author: DarkElfGuy
+author:
+  - DarkElfGuy
 ---
+> [!infobox|n-th]
+> 
+> ## Book Information
+> 
+> ![[icon-mw-book-01.png]]
+> 
+> | Type | Name |
+> | --- | --- |
+> | Writer | DarkElfGuy |
+> | ID | az_bk_adventurer's life |
+
 By Darkvon Elfeguy
   
 It was the dawn of the 42nd year of the 3rd era and Kintyra the first sits upon the throne as empress of all Tamriel. The land was peaceful, or at least as peaceful as it would ever be. Life in the town of Bodrum continued as it always had, albeit some things had changed. Resdayn, or Morrowind as it was now called, had become a province of the empire earlier in the second era in an act of diplomacy between Tiber Septim and the man-god Vivec.  

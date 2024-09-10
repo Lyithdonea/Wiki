@@ -15,6 +15,17 @@ author:
   - Kurt Kuhlmann
   - Ken Rolston
 ---
+> [!infobox|n-th]
+> 
+> ## Book Information
+> 
+> ![[icon-mw-book-01.png]]
+> 
+> | Type | Name |
+> | --- | --- |
+> | Source | Oblivion |
+> | ID | az_bk_BeforeTheAgesOfMan |
+
 By Aicantar of Shimerene  
 
 Before man came to rule Tamriel, and before the chronicles of the historians recorded the affairs of the rulers of Tamriel, the events of our world are known only through myths and legends, and through the divinely inspired teachings of the Nine Divines.  

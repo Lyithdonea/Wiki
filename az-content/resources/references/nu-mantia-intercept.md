@@ -186,4 +186,4 @@ If the Ayleids made their own Wheel within the Wheel, were-web aad semblio, what
 
 ***
 ## Notes
-This article uses material from The Imperial Library page ["Nu-Mantia Intercept](https://www.imperial-library.info/content/nu-mantia-intercept). It is licensed under the ​[Creative Commons by-sa license](https://creativecommons.org/licenses/by-sa/2.5/).
+This article uses material from The Imperial Library page ["Nu-Mantia Intercept"](https://www.imperial-library.info/content/nu-mantia-intercept). It is licensed under the ​[Creative Commons by-sa license](https://creativecommons.org/licenses/by-sa/2.5/).

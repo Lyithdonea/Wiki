@@ -11,8 +11,20 @@ tags:
   - niche
   - original
 description: An outlander's description of the Ouag Tong guild.
-author: Melchior Dahrk
+author:
+  - Melchior Dahrk
 ---
+> [!infobox|n-th]
+> 
+> ## Book Information
+> 
+> ![[icon-mw-book-01.png]]
+> 
+> | Type | Name |
+> | --- | --- |
+> | Writer | Melchior Dahrk |
+> | ID | az_bk_notesonouagtong |
+
 By Eksom, Redguard Savant
 
 The [[ouag-tong|Ouag Tong]], roughly translated as the “Waterers Guild”, has its origins shrouded in the mists of time. While I’m sure that members of the guild are privy to deeper historical facts, outsiders such as I are denied access to their records and my attempts at contacting the Doyen (or headmaster) of the guild have proved unsuccessful. One commonly held theory is that the Tong was originally a [[maormer|Maormer]] cult which was dissolved during the Hlamola Encounter and later grew to prominence again under [[chimer|Chimer]] leadership. The current roster is largely composed of south islander Chimer (known locally as Ouamer). The Ouag Tong nurtures peaceful relations with the Ouamer but has no known ties to [[house-azura|House Azura]]. The one ignores the other.

@@ -16,6 +16,17 @@ description: Chapter one from a textbook covering the magical process of galvann
 author:
   - Melchior Dahrk
 ---
+> [!infobox|n-th]
+> 
+> ## Book Information
+> 
+> ![[icon-mw-book-01.png]]
+> 
+> | Type | Name |
+> | --- | --- |
+> | Writer | Melchior Dahrk |
+> | ID | az_bk_hammerandthecalcinator |
+
 Advanced Applications of Alchemical Principles in Metallurgy  
 by Maester Jercel Merard  
 ## Chapter One: Galvannization  

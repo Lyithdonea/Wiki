@@ -14,7 +14,19 @@ tags:
   - original
 description: A fragment from a text which discusses how Azura may be related to the Dawn Era and the Middle Dawn.
 ---
-> Foreword to the Fragment: The last known work of the mage Aranarkus of Balfiera, the Ruminations were written in the latter years of the Second Era in response to Elidor Direnni's controversial Nature of the Et'Ada; the Ruminations proved largely unpopular due both to the enduring clout of the Direnni Clan among the Altmer and, more importantly, to the author's tendency to excessive tangentiality. As a result, by the end of the turn of the Second Era, only one known copy was preserved in its entirety; the manuscript-scrolls lay neglected, and only partially intact, in their cases in the Crystal Tower, where I first stumbled across them. Of the surviving scrolls, the author's discussion of Azura is the least damaged, and which I commit to paper anew, if only to save one of our people's voices from oblivion.
+> [!infobox|n-th]
+> 
+> ## Book Information
+> 
+> ![[icon-mw-book-01.png]]
+> 
+> | Type | Name |
+> | --- | --- |
+> | Writer | Unknown |
+> | ID | az_bk_natureoftheetada |
+
+> [!Note] Foreword to the Fragment
+> The last known work of the mage Aranarkus of Balfiera, the Ruminations were written in the latter years of the Second Era in response to Elidor Direnni's controversial Nature of the Et'Ada; the Ruminations proved largely unpopular due both to the enduring clout of the Direnni Clan among the Altmer and, more importantly, to the author's tendency to excessive tangentiality. As a result, by the end of the turn of the Second Era, only one known copy was preserved in its entirety; the manuscript-scrolls lay neglected, and only partially intact, in their cases in the Crystal Tower, where I first stumbled across them. Of the surviving scrolls, the author's discussion of Azura is the least damaged, and which I commit to paper anew, if only to save one of our people's voices from oblivion.
 \- Estalenya Moracaen of Cloudrest
 
 By Aranarkus of Balfiera  

@@ -14,6 +14,17 @@ description: A copy of a letter from a Tang Mo addressed to an Emperor "Titus Se
 author:
   - Lord_Hoot
 ---
+> [!infobox|n-th]
+> 
+> ## Book Information
+> 
+> ![[icon-mw-book-01.png]]
+> 
+> | Type | Name |
+> | --- | --- |
+> | Writer | Lord_Hoot |
+> | ID | az_bk_missivefromthetangmo |
+
 To his esteemed holiness the Emperor Titus Septim, convener and synthesis of all barbarian people of the Western Mystery Island, be they wise or stupid. As ever, I have the honour of being his excellency King Jigra Mo, Radiant Emperor and Learned Sage of the island called Act Now, Discuss Later, strongest bough of the Thousand and Thousand Islands of Tang Mo. I write during a cloudless orange sunset, with an easterly wind cooling my labours. I hope this missive finds you well, brave chieftain!  
   
 In your last contact you expressed a wish to learn more about the glittering realm of the Thousand and Thousand Islands of Tang Mo, where all monkeys are Emperors and no thoughts are wasted. I should be happy to enlighten you, and will use simple language so you are not confused.  

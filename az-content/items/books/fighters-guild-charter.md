@@ -13,6 +13,16 @@ description: The purpose, authority, tenents, and membership requirements for th
 author:
   - Melchior Dahrk
 ---
+> [!infobox|n-th]
+> 
+> ## Book Information
+> 
+> ![[icon-mw-book-01.png]]
+> 
+> | Type | Name |
+> | --- | --- |
+> | ID | az_bk_charterFG |
+
 ## I. Purpose  
   
 The Guild of Fighters provides employment to free-swords and mercenaries and contracts to local citizens. Citizens may contract with the Guild for the removal of creatures and pests, the delivery of goods on dangerous routes, the collection of beasts for the arenas, and other duties defined by the Guild Stewards.  

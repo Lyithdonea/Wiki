@@ -14,6 +14,17 @@ description: A parable about water snakes which Azura transformed into the Daybr
 author:
   - Melchior Dahrk
 ---
+> [!infobox|n-th]
+> 
+> ## Book Information
+> 
+> ![[icon-mw-book-01.png]]
+> 
+> | Type | Name |
+> | --- | --- |
+> | Writer | Melchior Dahrk |
+> | ID | az_bk_thetealwatersnakes |
+
 ## Legend of the Daybreaker  
 Compiled By Reldas Othremu  
   
