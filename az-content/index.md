@@ -10,6 +10,7 @@ description:
 The latest version of Lyithdonea is currently hosted on [GitHub](https://github.com/Lyithdonea/Data). You can find instructions for [[downloading-from-github|downloading from GitHub]] here on the Wiki.
 
 An older version can be found on the [Nexus](https://www.nexusmods.com/morrowind/mods/43749).
+## [[frequently-asked-questions|Frequently Asked Questions]]
 
 ## Gameplay Information
 * [[items/index|Items]]
