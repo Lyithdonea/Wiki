@@ -17,7 +17,7 @@ author:
 ## Azura speaking to the Nerevarine
 [Azura speaks of how the Nerevarine was not tricked during his conquest against House Dagoth.]
 
-[[Azura]]: With the Heart gone, Red Mountain holds no purpose. Its stability wavers. The balance of the Mundus has weakened. What has been done could not be avoided, Nerevar. The Devil Dagoth and the False Gods drained the Heart to its basest.
+[[azura|Azura]]: With the Heart gone, Red Mountain holds no purpose. Its stability wavers. The balance of the Mundus has weakened. What has been done could not be avoided, Nerevar. The Devil Dagoth and the False Gods drained the Heart to its basest.
 
 Nerevarine: The Heart?
 
