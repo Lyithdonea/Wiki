@@ -5,7 +5,7 @@ aliases:
 tags: 
 description:
 ---
-*[[lyithdonea|Lyithdonea]]: The Azurian Isles* is a landmass mod for TES3:Morrowind featuring a tropical paradise between Tamriel and Akavir inhabited by one of the last remnants of the Chimer race. The mod has strong influences from the Daedric Prince [[azura|Azura]]. Explore a detailed new landmass, discover strange creatures, battle pirates, immerse in the lore and much yet to come!
+*[[lyithdonea|Lyithdonea]]: The Azurian Isles* is a landmass mod for _The Elder Scrolls III: Morrowind_ featuring a tropical paradise between Tamriel and Akavir inhabited by one of the last remnants of the [[chimer|Chimer]] race. The mod has strong influences from the Daedric Prince [[azura|Azura]]. Explore a detailed new landmass, discover strange creatures, battle pirates, immerse in the lore and much yet to come!
 ## Releases
 The latest version of Lyithdonea is currently hosted on [GitHub](https://github.com/Lyithdonea/Data). You can find instructions for [[downloading-from-github|downloading from GitHub]] here on the Wiki.
 
@@ -19,12 +19,13 @@ An older version can be found on the [Nexus](https://www.nexusmods.com/morrowind
 * [[creatures/index|Creatures]]
 * [[factions/index|Factions]]
 * [[flora/index|Flora]]
-* [[gods-and-magic/index|Lore]]
+* [[gods-and-magic/index|Gods & Magic]]
 * [[people/index|People]]
 * [[places/index|Places]]
+* [[races/index|Races]]
 ## Contributing
 * Assets
-* Interiors
+* [[interior-claims|Interior Claims]]
 ## Background
 ### History
 When the [[chimer|Chimer]] were led by the triune Good Daedra into the old land of [[veloth|Veloth]], each Daedra Lord fostered their own group of priests and priestesses. After entering Veloth, the High Velothi Culture eventually dwindled into tribal nature which finally emerged as early versions of the modern Dunmer Houses. Among these houses were the holy Daedric Houses, which included House Boethiah, House Mephala and, most importantly to this mod, [[house-azura|House Azura]]. For many generations, the Minor Houses led the Great Houses in worship of the Good Daedra. However, when the Tribunal ascended to godhood and replaced the old traditions of ancestor and Daedra worship, the priestly Minor Houses began to fall out of favor in the emerging Great House and Dunmer Temple culture.  
