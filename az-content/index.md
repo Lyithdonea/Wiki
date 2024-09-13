@@ -19,7 +19,7 @@ An older version can be found on the [Nexus](https://www.nexusmods.com/morrowind
 * [[creatures/index|Creatures]]
 * [[factions/index|Factions]]
 * [[flora/index|Flora]]
-* [[lore/index|Lore]]
+* [[gods-and-magic/index|Lore]]
 * [[people/index|People]]
 * [[places/index|Places]]
 ## Contributing

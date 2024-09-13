@@ -1,7 +1,7 @@
 ---
-title: Lore
+title: Gods & Magic
 aliases:
-  - Lore
+  - Gods & Magic
 tags: 
 description:
 ---
