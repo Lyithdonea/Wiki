@@ -5,7 +5,6 @@ aliases:
 tags:
   - places
   - lands
-  - graph-exclude
 description: Esroniet is an island in the Padomaic Ocean between the continents of Tamriel and Akavir. The main port of the island is named Black Harbor.
 ---
 > [!maintenance] Headcanon

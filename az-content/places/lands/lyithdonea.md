@@ -6,7 +6,6 @@ aliases:
 tags:
   - places
   - lands
-  - graph-exclude
 description: Lyithdonea, also known as "The Azurian Isles" is an island in the Padomaic Ocean between Tamriel and Akavir and is home to a group of Chimer who worship the Daedric Prince, Azura.
 ---
 > [!maintenance] Headcanon

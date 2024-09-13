@@ -5,7 +5,6 @@ aliases:
 tags:
   - places
   - realms
-  - graph-exclude
 description: Moonshadow is a realm of Oblivion created and ruled over by the Daedric Prince Azura, Queen of Dawn and Dusk.
 ---
 > [!maintenance] Headcanon
