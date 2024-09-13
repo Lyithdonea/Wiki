@@ -9,8 +9,17 @@ aliases:
   - Azurah
 tags:
   - daedra
+  - graph-exclude
 description: Azura is a Daedric Prince whose sphere is dawn and dusk - the magic in-between realms of twilight - as well as mystery and magic, fate and prophecy, and vanity and egotism.
 ---
+> [!maintenance] Headcanon
+> ![[god-azura.png|left wtiny]]
+> 
+> > [!maintenance|clean nbrd]
+> > 
+> > **"You have come here for a reason, though you may not know what it is."**
+> > 
+> > This article or section contains 'musings' - developmental notes, not yet codified.
 ## Spheres of Influence
 Azura's spheres of influence include artistic expression, magic, fate, and prophecy, dusk and dawn, the magic in-between realms of twilight. [^1] [^2] [^3]
 
@@ -19,6 +28,9 @@ Azura's knowledge of the First Secret may influence her ability to affect racial
 Azura claimed to have used her powers over Dawn and Dusk to reincarnate Nerevar. [^5]
 
 Azura is also described as "the Rim of all Holes". [^6] It is unclear if this is in reference to her ability to pass through the lunar lattice or something more obscure.
+
+> [!Musings]
+> Azura can bypass the lattice, because she is the break in the lattice - the rim of all holes.
 ## Motivations (Main Storyline)
 Queen of the Night Sky, Mother of the Rose, Lady of Dawn and Dusk; Azura is generous to her faithful, vengeful on her adversaries, jealous, and selfish. But then, which Daedra are not? Therefore, if something does not go according to plan, Azura will not become angry, she seldom does. Instead she will tactfully alter her plot to achieve her goals and hurt the ones who thwarted her plans. It is often difficult to tell the difference between Azura’s self-focused will, and the arbitrary good of it all. Although Lady Azura is a jealous lord, she strongly protects her faithful. Beauty is paramount to Azura. Reflect on her realm, its city of silver and her rose palace. Her love of beauty evolved into a desire for perfection. Azura may not expect total perfection of her mortal [[house-azura|House Azura]], but her Daedra are bound by other laws. Therefore her son, [[aesmandroth|Aesmandroth]], was held to a high standard. Thus his waywardness and individuality which sprouted from his mortality lead to his exile from [[moonshadow|Moonshadow]].
 

@@ -5,22 +5,29 @@ aliases:
 tags:
   - places
   - realms
+  - graph-exclude
 description: Moonshadow is a realm of Oblivion created and ruled over by the Daedric Prince Azura, Queen of Dawn and Dusk.
 ---
-## [UESP](https://en.uesp.net/wiki/Lore:Moonshadow)
+> [!maintenance] Headcanon
+> ![[god-azura.png|left wtiny]]
+> 
+> > [!maintenance|clean nbrd]
+> > 
+> > **"You have come here for a reason, though you may not know what it is."**
+> > 
+> > This article or section contains 'musings' - developmental notes, not yet codified.
 
-## AZ
+Azura's realm is described as a twilight island of shades and half-thoughts filled with flowers, waterfalls, majestic trees, a city of silver, and a blinding beauty which blurs vision. [^1] [^2] A jade moon fills the sky and portions of the  landscape is jagged. [^3] The weather may involve frequent rainfall and storms which cause the surrounding sea to become described as "furious". [^2] [^3] Visitors to the realm have historically come mainly from the Dunmer of eastern Morrowind and the catfolk of Elsweyr, whose people both hold a great affection for the mother of immanence, though by separate roads. [^1]
 
-> [[azura|Azura]] is the Lord of Moonshadow, whose sphere is dusk and dawn, the magic in-between realms of twilight.
+Like other realms of Oblivion, it is likely that Azura harnessed the energy of [[creatia|creatia]] to form Moonshadow within the void. [^4]
 
-Could her realm perhaps be represented in two phases as well. There is not day and night there. Only Twilight. Indefinitely.
+> [!Musings]
+> Azura's realm may be represented in two phases: Dusk and Dawn. There is no day and night cycle on the island; just a perpetual Twilight. These two regions may have different topography (e.g. jagged landscape in Dusk) as well as distinct flora and fauna.
+## Twilight Star
+Azura's Star, also called the Twilight Star, appears briefly at dawn and dusk low on the horizon below the constellation of the Steed when Azura's powers over dawn and dusk allow her to lift the veil of Oblivion for mortal eyes to behold her realm. [^5]
 
-Idea for an explanation of Azura’s Star: Azura’s Star is not a star at all, which are really just holes to Aetherius. Remember that when you look into the night sky you gaze into oblivion. However, under normal circumstances, one cannot actually see anything in oblivion other than a darkness devoid of light. This is due to the fact that the planes of oblivion lie not within our mortal boundaries and therefore are not visible to our mortal eyes. However, the Twilight hours are Azura’s sphere and therefore she is able to grant a glimpse of her realm to us during those times. This is the reason for her star appearing during the hours of dawn and dusk. ([The Anticipations](https://www.imperial-library.info/content/anticipations))
-
-Azura’s realm is called Moonshadow because it lies in the shadow of the moons, Jone and Jode. Azura is the Rim of All Holes. She knows the First Secret and therefore control travel through the lunar lattice. The hole she is the rim of is the lattice. Take this quote from the TIL Lore Forum:  
-
-> Azura can bypass the lattice, because she is the break in the lattice - the rim of all holes.
-
-> “'They were on a jagged island in a furious sea beneath a sky half-filled with a jade moon.' Based on Sul's trajectory, this is likely Azura's realm." p.256 from The Infernal City.
-
-> Azura, Lord of Dusk and Dawn, maintains the domain of Moonshadow, a twilight country of shades and half-thoughts. Visitors to this isle have historically come mainly from the Dunmer of eastern Morrowind and the catfolk of Elsweyr, whose people both hold a great affection for the mother of immanence, though by separate roads. At the time of this writing, regular gateways to Moonshadow have been inaccessible for the last several years. Whether this has to do with the unlawful incidents at Hogithum Hall in the Capital City or mere whim of Azura herself, no one can say. Of course, Azura’s most famous acts of recent times is the Incarnation of the Nerevarine, a subject that while far beyond the scope of this pamphlet has been felt to the present day.
+[^1]: [[imperial-census-of-daedra-lords#^f7f48b|Imperial Census of Daedra Lords]]
+[^2]: [[the-doors-of-oblivion#^d17b69|The Doors of Oblivion]]
+[^3]: The Infernal City p.256 "'They were on a jagged island in a furious sea beneath a sky half-filled with a jade moon.' Based on Sul's trajectory, this is likely Azura's realm. "
+[^4]: [[nu-mantia-intercept#^16fadd|Nu-Mantia Intercept]] 
+[^5]: [[the-anticipations#^9b94ed|The Anticipations]]

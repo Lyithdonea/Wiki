@@ -28,7 +28,7 @@ author:
 
 By Brother Mikhael Karkuxor of the Imperial College  
 
-Azura, Lord of Dusk and Dawn, maintains the domain of Moonshadow, a twilight country of shades and half-thoughts. Visitors to this isle have historically come mainly from the Dunmer of eastern Morrowind and the catfolk of Elsweyr, whose people both hold a great affection for the mother of immanence, though by separate roads.  
+Azura, Lord of Dusk and Dawn, maintains the domain of Moonshadow, a twilight country of shades and half-thoughts. Visitors to this isle have historically come mainly from the Dunmer of eastern Morrowind and the catfolk of Elsweyr, whose people both hold a great affection for the mother of immanence, though by separate roads.   ^f7f48b
   
 Boethiah, the so-called Prince of Plots, has renamed his country of labyrinthine policy and betrayals yet again. Formerly "Snake Mount", Prince Boethiah’s maze gardens and twisted towers is called "Attribution’s Share", a realm best avoided by those that live outside the arcano-politic. Boethiah, like his cohort Azura, is much revered by the followers of the Tribunal Temple, but sub-cults of his are entrenched in nearly every terrestrial seat of governance. His traditional festival date is the 2nd of Sun’s Dusk, when many contracts are writ between kings and commoners alike.  
   

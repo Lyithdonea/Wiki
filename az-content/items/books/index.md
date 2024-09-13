@@ -52,8 +52,10 @@ description:
 > - #magic
 > - #maormer
 > - #metaphysics 
+> - #moonshadow
 > - #nautical
 > - #necromancy
+> - #oblivion
 > - #ouag-tong 
 > - #ouamer
 > - #smithing
