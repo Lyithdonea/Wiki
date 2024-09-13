@@ -8,6 +8,15 @@ tags:
   - main-quest
 description: The fourth quest in the main questline.
 ---
+> [!infobox|n-th]
+> 
+> ## Quest Information
+> 
+> | Type | Name |
+> | --- | --- |
+> | Prev | [MQ3](mq3.md) |
+> | Next | ... |
+
 [[rashyon-daga|Rashyon Daga]] gives you the low down that people have been disappearing (you've already heard this from rumors and a few people mentioning it worriedly during the quests like the tomb escort). But Rashyon mentions that he believes there are priests in the Rosery who are involved. But he doesn't know why. Says that [[ha-questgiver-1|HA Questgiver 1]] trusted you and asks if you will help.
 
 Rashyon asks you, as an outsider to do some investigative work for him. Ask people around the temple about the disappearances. Listen for anything suspicious and report back. Most people are just fearful, but a couple people mention a priestess in particular who they say assured them that people were simply leaving the isles because they had been corrupted by western ideals (it's always those darn westerners!). When you speak to her, she shrugs off the disappearances, saying that they were all traitors. And suggests that you stop asking prying questions.

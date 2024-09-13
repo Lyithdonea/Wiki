@@ -8,6 +8,15 @@ tags:
   - ouag-tong
 description: The fifth quest in the Ouag Tong quest line.
 ---
+> [!infobox|n-th]
+> 
+> ## Quest Information
+> 
+> | Type | Name |
+> | --- | --- |
+> | Faction | Ouag Tong |
+> | Prev | [OTQ4](otq4.md) |
+> | Next | [OTQ6](otq6.md) |
 
 Sent to retrieve the rest of the maps. The knowledge of these locations is based mostly on rumors and conjecture.
 
@@ -15,5 +24,3 @@ Sent to retrieve the rest of the maps. The knowledge of these locations is based
 * Find and get key fragments from each of the treasure chests.
 	- The treasure maps are zoomed in versions of Londonrook’s map (he made one of Lyithdonea) so that you have to figure out where they are based on a big map in the guildhall
 	- Some treasure chests are buried and require a shovel to dig up
-
-Next: [[otq6|OTQ6]]

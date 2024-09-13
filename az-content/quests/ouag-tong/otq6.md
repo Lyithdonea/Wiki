@@ -8,6 +8,16 @@ tags:
   - ouag-tong
 description: The sixth quest in the Ouag Tong quest line.
 ---
+> [!infobox|n-th]
+> 
+> ## Quest Information
+> 
+> | Type | Name |
+> | --- | --- |
+> | Faction | Ouag Tong |
+> | Prev | [OTQ5](otq5.md) |
+> | Next | ... |
+
 Player has two choices at this point:
 
 1. Break the seal themselves
