@@ -32,7 +32,7 @@ The interior of the island is home to towering silverleaf trees and hemp plants 
 The royalty was allowed to remain after the pirates took over because they're an important religious symbol (and had the weight of tradition backing them up) but with little to no real authority; figureheads.
 ### Black Council
 Previously an advisory body to the prince, nominally still an advisory body to the prince, but in reality the rulers of Esroniet. Composed of the heads of the clans; technically a seat on the council is what makes a clan a clan. Pre-Imperials it was composed of the same group of powerful families for a long time, but the pirates are more egalitarian/volatile, so social mobility is possible if a group becomes powerful enough. Additions are by majority vote of existing clan heads
-## Clans
+### Clans
 * **dir-Kannika** - Silverleaf
 * **dir-Ralianus** - Tiger Moths. Named after their clan symbol, taken from their origins as soldiers in the Tigermoth Legion, which in turn was named after the moth native to Esroniet.
 * **dir-Rikara** - Fish
