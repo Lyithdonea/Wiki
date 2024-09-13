@@ -22,6 +22,7 @@ import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
 // Custom components
 import LinksHeader from "./LinksHeader"
+import TableOfContents2 from "./TableOfContents2"
 
 export {
   ArticleTitle,
@@ -49,4 +50,5 @@ export {
 
 // Custom components
   LinksHeader,
+  TableOfContents2,
 }
