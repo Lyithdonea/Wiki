@@ -5,3 +5,4 @@ aliases:
 tags: 
 description:
 ---
+This page categorizes all of the people in *Lyithdonea: The Azurian Isles*.
