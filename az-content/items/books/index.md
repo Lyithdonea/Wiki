@@ -5,6 +5,7 @@ aliases:
 tags: 
 description:
 ---
+*Lyithdonea: The Azurian Isles* includes many original books along with books from other *Elder Scrolls* titles and contributions by other authors. Each of these books includes tags to help quickly parse what it contains. Information on these tags can be seen in the following sections.
 ## Book Tags
 ### Usage
 > [!column|clean no-t list 3]
