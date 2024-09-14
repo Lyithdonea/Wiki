@@ -3,7 +3,7 @@ title: Books
 aliases:
   - Books
 tags: 
-description:
+description: "This page includes the list of books in Lyithdonea: The Azurian Isles along with information on the book tagging system."
 ---
 *Lyithdonea: The Azurian Isles* includes many original books along with books from other *Elder Scrolls* titles and contributions by other authors. Each of these books includes tags to help quickly parse what it contains. Information on these tags can be seen in the following sections.
 ## Book Tags
