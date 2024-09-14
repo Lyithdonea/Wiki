@@ -3,7 +3,6 @@ title: Lorent Brumarc
 aliases:
   - Lorent Brumarc
 tags:
-  - people
   - mages-guild
 description: Mages Guild student of Healing.
 ---

@@ -3,7 +3,6 @@ title: HA Questgiver 1
 aliases:
   - HA Questgiver 1
 tags:
-  - people
   - house-azura
 description: The first quest giver from House Azura.
 ---

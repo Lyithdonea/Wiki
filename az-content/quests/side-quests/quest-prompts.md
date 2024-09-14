@@ -2,8 +2,7 @@
 title: Quest Prompts
 aliases:
   - Quest Prompts
-tags:
-  - quests
+tags: []
 description: Quest items and ideas.
 ---
 ## Quest Items

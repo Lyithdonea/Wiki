@@ -4,7 +4,6 @@ aliases:
   - OTQ5
   - Ouag Tong Quest 5
 tags:
-  - quests
   - ouag-tong
 description: The fifth quest in the Ouag Tong quest line.
 ---

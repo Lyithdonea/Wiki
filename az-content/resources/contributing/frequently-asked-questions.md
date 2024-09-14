@@ -5,7 +5,7 @@ aliases:
   - F.A.Q.
   - FAQ
 tags: 
-description:
+description: "A page to answer frequently asked questions about Lyithdonea: The Azurian Isles."
 ---
 ## Is Lyithdonea an official location?
 No. Lyithdonea is the creation of Melchior Dahrk intended to fit within the Elder Scrolls universe.

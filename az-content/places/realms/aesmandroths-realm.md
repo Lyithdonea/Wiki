@@ -3,7 +3,6 @@ title: Aesmandroth's Realm
 aliases:
   - Aesmandroth's Realm
 tags:
-  - places
   - realms
 description: The realm of Aesmandroth.
 ---

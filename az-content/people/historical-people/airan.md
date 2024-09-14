@@ -3,7 +3,6 @@ title: Airan
 aliases:
   - Airan
 tags:
-  - people
   - historical-people
 description: Airan is the namesake for "Airan's Teeth" which is a rock formation found in the Valley of the Wind on Vvardenfell.
 ---

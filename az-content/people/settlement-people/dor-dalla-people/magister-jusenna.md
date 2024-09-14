@@ -4,7 +4,6 @@ aliases:
   - Magister Jusenna
   - Jusenna
 tags:
-  - people
   - mages-guild
 description: Mages Guild Master of the Scrye and Magister of Mysticism, Conjuration, and Divination.
 ---

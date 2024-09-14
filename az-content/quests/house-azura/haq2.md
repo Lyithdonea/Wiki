@@ -4,7 +4,6 @@ aliases:
   - HAQ2
   - House Azura Quest 2
 tags:
-  - quests
   - house-azura
 description: The second quest in the House Azura quest line.
 ---

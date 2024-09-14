@@ -4,8 +4,7 @@ aliases:
   - Rosery of Azura
   - The Rosery
   - Rosery
-tags:
-  - factions
+tags: []
 description: The Rosery of Azura is the temple faction in Lyithdonea which is dedicated to the worship of Azura.
 ---
 More details on the faction can be read in [[rosery-of-azura-book|Rosery of Azura (Book)]].

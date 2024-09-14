@@ -2,8 +2,7 @@
 title: Vuldo
 aliases:
   - Vuldo
-tags:
-  - people
+tags: []
 description: Owner of Jubuka'im Farm.
 ---
 Owner of [[jubukaim-farm|Jubuka'im Farm]].

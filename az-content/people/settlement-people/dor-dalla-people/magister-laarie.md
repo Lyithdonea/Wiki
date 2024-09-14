@@ -4,7 +4,6 @@ aliases:
   - Magister Laarie
   - Laarie
 tags:
-  - people
   - mages-guild
 description: Mages Guild Master of Incunabula, librarian, and Magister of Enchanting and Pneumology.
 ---

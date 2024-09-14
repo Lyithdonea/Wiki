@@ -3,7 +3,6 @@ title: Palatinus Medius
 aliases:
   - Palatinus Medius
 tags:
-  - people
   - mages-guild
 description: Mages Guild Palatinus of the Order of the Lamp.
 ---

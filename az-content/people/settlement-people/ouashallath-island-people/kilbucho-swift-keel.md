@@ -4,7 +4,6 @@ aliases:
   - Kilbucho Swift-keel
   - Kilbucho
 tags:
-  - people
   - ouag-tong
 description: A member of the Ouag Tong.
 ---

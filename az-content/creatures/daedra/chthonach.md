@@ -3,7 +3,6 @@ title: Chthonach
 aliases:
   - Chthonach
 tags:
-  - creatures
   - daedra
 description: An unintelligent variety of Daedra which have come under the command of Aesmandroth.
 ---

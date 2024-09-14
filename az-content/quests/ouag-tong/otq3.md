@@ -4,7 +4,6 @@ aliases:
   - OTQ3
   - Ouag Tong Quest 3
 tags:
-  - quests
   - ouag-tong
 description: The third quest in the Ouag Tong quest line.
 ---

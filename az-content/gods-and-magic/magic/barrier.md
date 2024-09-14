@@ -2,8 +2,7 @@
 title: Barrier
 aliases:
   - Barrier
-tags:
-  - magic
+tags: []
 description: Magical barriers or shields.
 ---
 There are magical barriers which exist between various states and realms of existence in the [[aurbis]].

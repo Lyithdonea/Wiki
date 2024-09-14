@@ -3,7 +3,6 @@ title: Dather Dols
 aliases:
   - Dather Dols
 tags:
-  - people
   - mages-guild
 description: Menagerie caretaker aka "stable boy" at the Mages Guild.
 ---

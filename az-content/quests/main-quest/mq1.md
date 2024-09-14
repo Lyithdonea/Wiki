@@ -5,7 +5,6 @@ aliases:
   - Dream of Fire
   - Main Quest 1
 tags:
-  - quests
   - main-quest
 description: The first quest in the main questline.
 ---

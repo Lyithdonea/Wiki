@@ -4,7 +4,6 @@ aliases:
   - Magister Zalaster
   - Zalaster
 tags:
-  - people
   - mages-guild
 description: Mages Guild Exarch-Mage.
 ---

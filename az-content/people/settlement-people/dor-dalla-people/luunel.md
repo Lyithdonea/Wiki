@@ -2,8 +2,7 @@
 title: Luunel
 aliases:
   - Luunel
-tags:
-  - people
+tags: []
 description: Mages Guild cook.
 ---
 ## Faction

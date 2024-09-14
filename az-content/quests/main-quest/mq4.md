@@ -4,7 +4,6 @@ aliases:
   - MQ4
   - Main Quest 4
 tags:
-  - quests
   - main-quest
 description: The fourth quest in the main questline.
 ---

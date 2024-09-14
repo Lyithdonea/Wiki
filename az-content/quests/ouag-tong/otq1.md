@@ -4,7 +4,6 @@ aliases:
   - OTQ1
   - Ouag Tong Quest 1
 tags:
-  - quests
   - ouag-tong
 description: The first quest in the Ouag Tong quest line.
 ---

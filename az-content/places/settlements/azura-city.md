@@ -4,7 +4,6 @@ aliases:
   - Azura City
   - City of Azura
 tags:
-  - places
   - settlements
 description: Azura City is the Capitol of House Azura in Lyithdonea.
 ---

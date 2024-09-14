@@ -3,9 +3,7 @@ title: Infernace
 aliases:
   - Infernace
 tags:
-  - places
   - realms
-  - graph-exclude
 description:
 ---
 > [!maintenance] Headcanon

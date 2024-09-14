@@ -3,7 +3,6 @@ title: Magister Reeh-Fen
 aliases:
   - Magister Reeh-Fen
 tags:
-  - people
   - mages-guild
 description: Mages Guild Master of Academia and Magister of Illusion and Cosmology.
 ---

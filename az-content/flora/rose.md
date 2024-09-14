@@ -2,8 +2,7 @@
 title: Rose
 aliases:
   - Rose
-tags:
-  - flora
+tags: []
 description: A variety of roses grow in Lyithdonea.
 ---
 > [!maintenance] Headcanon

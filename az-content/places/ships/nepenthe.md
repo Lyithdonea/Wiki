@@ -3,7 +3,6 @@ title: Nepenthe
 aliases:
   - Nepenthe
 tags:
-  - places
   - ships
 description: The High Elven ship of Captain Ilmennon.
 ---

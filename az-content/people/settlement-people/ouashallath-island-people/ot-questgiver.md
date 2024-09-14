@@ -3,7 +3,6 @@ title: OT Questgiver
 aliases:
   - OT Questgiver
 tags:
-  - people
   - ouag-tong
 description: The primary quest giver for the Ouag Tong faction.
 ---

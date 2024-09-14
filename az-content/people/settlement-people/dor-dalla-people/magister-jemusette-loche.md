@@ -5,7 +5,6 @@ aliases:
   - Jemusette Loche
   - Magister Loche
 tags:
-  - people
   - mages-guild
 description: Mages Guild Master at Arms and Magister of Destruction and Alteration.
 ---

@@ -3,7 +3,6 @@ title: Leifid
 aliases:
   - Leifid
 tags:
-  - people
   - mages-guild
 description: Mages Guild student of Enchanting.
 ---

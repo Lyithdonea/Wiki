@@ -2,8 +2,7 @@
 title: House Azura
 aliases:
   - House Azura
-tags:
-  - factions
+tags: []
 description: House Azura is the governing faction in Lyithdonea.
 ---
 [[finding-the-rose|Finding the Rose]] is a promotional booklet published by House Azura.

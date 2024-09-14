@@ -4,7 +4,6 @@ aliases:
   - MGQ1
   - Mages Guild Quest 1
 tags:
-  - quests
   - mages-guild
 description: The first quest in the Mages Guild quest line.
 ---

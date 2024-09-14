@@ -3,7 +3,6 @@ title: Gaulorn
 aliases:
   - Gaulorn
 tags:
-  - people
   - mages-guild
 description: Mages Guild clerk.
 ---

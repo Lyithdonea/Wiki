@@ -3,7 +3,6 @@ title: Thousand Isles
 aliases:
   - Thousand Isles
 tags:
-  - places
   - regions
 description: The swampy region in the Southern area of Lyithdonea.
 ---

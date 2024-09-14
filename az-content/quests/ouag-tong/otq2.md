@@ -4,7 +4,6 @@ aliases:
   - OTQ2
   - Ouag Tong Quest 2
 tags:
-  - quests
   - ouag-tong
 description: The second quest in the Ouag Tong quest line.
 ---

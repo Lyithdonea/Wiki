@@ -3,7 +3,6 @@ title: Tarshon
 aliases:
   - Tarshon
 tags:
-  - places
   - settlements
 description: A ruined Ouamer settlement which is now haunted by necromantic powers.
 ---

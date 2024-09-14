@@ -2,8 +2,7 @@
 title: Maormer
 aliases:
   - Maormer
-tags:
-  - races
+tags: []
 description:
 ---
 ## [UESP](https://en.uesp.net/wiki/Lore:Maormer)

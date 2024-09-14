@@ -6,8 +6,7 @@ aliases:
   - Changed Folk
   - Changed Ones
   - Maliache
-tags:
-  - races
+tags: []
 description: The Chimer (literally, the People of the North) were the Aldmeri tribes of dissidents who abandoned the ways of Summerset Isle and embarked on a great exodus to Morrowind.
 ---
 Before the Battle of Red Mountain, when the Chimer of Morrowind were turned into Dunmer, there were groups of Chimer who left Morrowind. These groups include the Chimeri-quey of Cathnoquey and the Azurian Chimer of [[lyithdonea|Lyithdonea]].

@@ -2,8 +2,7 @@
 title: Ouamer
 aliases:
   - Ouamer
-tags:
-  - races
+tags: []
 description: The Ouamer are a group of elves related to the Chimer of House Azura who mostly reside in the swampy Thousand Isles region.
 ---
 They refer to [[azura|Azura]] as the "Mother Soul". Read [[elves-of-the-southern-isles|Elves of the Southern Isles]] for more information on the Ouamer.

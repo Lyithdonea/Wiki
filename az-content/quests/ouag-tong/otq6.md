@@ -4,7 +4,6 @@ aliases:
   - OTQ6
   - Ouag Tong Quest 6
 tags:
-  - quests
   - ouag-tong
 description: The sixth quest in the Ouag Tong quest line.
 ---

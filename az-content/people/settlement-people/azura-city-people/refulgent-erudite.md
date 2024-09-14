@@ -3,7 +3,6 @@ title: Refulgent Erudite
 aliases:
   - Refulgent Erudite
 tags:
-  - people
   - rosery
 description: Dialogue holder for Refulgent Erudites
 ---

@@ -4,7 +4,6 @@ aliases:
   - HAQ1
   - House Azura Quest 1
 tags:
-  - quests
   - house-azura
 description: The first quest in the House Azura quest line.
 ---

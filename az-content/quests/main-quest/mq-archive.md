@@ -4,7 +4,6 @@ aliases:
   - MQ Archive
   - Main Quest Archive
 tags:
-  - quests
   - main-quest
 description: Some loose ends from the old main quest outline. These are archived here for potential usage in a different quest line.
 ---

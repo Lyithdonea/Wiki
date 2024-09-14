@@ -3,7 +3,6 @@ title: Ester
 aliases:
   - Ester
 tags:
-  - people
   - nolmer
 description: Ester is one of the ascended Nolmer and is at odds with her father Aesmandroth.
 ---

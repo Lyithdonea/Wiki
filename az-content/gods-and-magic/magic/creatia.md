@@ -3,8 +3,7 @@ title: Creatia
 aliases:
   - creatia
   - kaleidocules
-tags:
-  - magic
+tags: []
 description: Chaotic Creatia is unformed chaos native to the planes of Oblivion.
 ---
 Creatia emits from Aetherius and is used by the Daedra to construct their realms in Oblivion. Creatia is also known as "kaleidocules" and may be related to "daedrons". [^1] [^2]

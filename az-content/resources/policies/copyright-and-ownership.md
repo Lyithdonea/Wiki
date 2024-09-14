@@ -3,7 +3,7 @@ title: Copyright and Ownership
 aliases:
   - Copyright and Ownership
 tags: 
-description:
+description: Copyright and ownership information for the Lyithdonea Wiki.
 ---
 The _content_ of the Lyithdonea Wiki is licensed freely under the **[Attribution-ShareAlike 2.5 License](http://creativecommons.org/licenses/by-sa/2.5/)** (also called the **by-sa** license). This means that you retain ownership of any contribution you submit to us, but you permanently license the right to use it to [this site](https://www.lyithdonea.wiki/). The by-sa license is a copyleft license, meaning the text of the articles can be copied, modified, and redistributed as long as the new version acknowledges the authors of the article and grants the same freedoms to others.
 

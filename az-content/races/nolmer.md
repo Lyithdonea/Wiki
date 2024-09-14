@@ -2,8 +2,7 @@
 title: Nolmer
 aliases:
   - Nolmer
-tags:
-  - races
+tags: []
 description: The Nolmer or "Void Elves" are beings created by Aesmandroth.
 ---
 The Nolmer or "Void Elves" are beings created by [[aesmandroth|Aesmandroth]]. They were originally created by merging a mortal soul with a daedric animus. This effectively made this new race undying but still vulnerable to death by violence. Part of the metaphysical nature of this process abolished the mortal link to the dreamsleeve process of soul recycling. The removal of this anchor and the unnatural process of a daedric soul passing through the lunar lattice into Oblivion after death drove many of the Nolmer mad. They become violent monsters. But some had the willpower to withstand the process and became the pure Nolmer. Aesmandroth used himself as a temporary anchor for their souls but hopes to transform himself into an earthbone so that the Nolmer could be forever bound to the mortal plane, never losing their identity in the dreamsleeve.

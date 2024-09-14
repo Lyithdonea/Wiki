@@ -3,8 +3,7 @@ title: Mages Guild
 aliases:
   - Mages Guild
   - Guild of Mages
-tags:
-  - factions
+tags: []
 description: The Mages Guild in Lyithdonea was chartered during the "Ebon Age" of Lyithdonea.
 ---
 ## Ranks

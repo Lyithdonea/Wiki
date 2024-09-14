@@ -3,7 +3,6 @@ title: Jubuka'im Farm
 aliases:
   - Jubuka'im Farm
 tags:
-  - places
   - settlements
 description: A large farm located on an island near Azura City.
 ---

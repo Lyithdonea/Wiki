@@ -2,8 +2,7 @@
 title: Dreugh
 aliases:
   - Dreugh
-tags:
-  - races
+tags: []
 description: The dreugh are an ancient species of aquatic, octopus-like beastfolk, commonly hunted for their hide and the wax scraped from their shells.
 ---
 ## Biology

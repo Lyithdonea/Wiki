@@ -5,7 +5,6 @@ aliases:
   - Nepenthe
   - Main Quest 2
 tags:
-  - quests
   - main-quest
 description: The second quest in the main questline.
 ---

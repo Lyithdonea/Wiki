@@ -4,7 +4,6 @@ aliases:
   - MQ3
   - Main Quest 3
 tags:
-  - quests
   - main-quest
 description: The third quest in the main questline.
 ---

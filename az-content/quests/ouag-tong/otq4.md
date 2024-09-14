@@ -4,7 +4,6 @@ aliases:
   - OTQ4
   - Ouag Tong Quest 4
 tags:
-  - quests
   - ouag-tong
 description: The fourth quest in the Ouag Tong quest line.
 ---

@@ -4,7 +4,6 @@ aliases:
   - Magister Crim
   - Crim
 tags:
-  - people
   - mages-guild
 description: Mages Guild Master of Initiates, Magister of Alchemy, Zoology, Restoration, and Chirurgy along with other less savory studies.
 ---

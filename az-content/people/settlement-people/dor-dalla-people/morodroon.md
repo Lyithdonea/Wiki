@@ -3,7 +3,6 @@ title: Morodroon
 aliases:
   - Morodroon
 tags:
-  - people
   - mages-guild
 description: Mages Guild custodian.
 ---
