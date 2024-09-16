@@ -18,7 +18,7 @@ There are magical barriers which exist between various states and realms of exis
 9th - aurbis | void (wakefulness)
 
 > [!Quote] [[scroll-of-the-ninth-barrier#^0f0645|Scroll of The Ninth Barrier]]
-> ![[scroll-of-the-ninth-barrier#^0f0645|clean]]
+> ![[scroll-of-the-ninth-barrier#^8ef40c|clean]]
 
 > [!Note]
 > This head canon was originally developed for Lyithdonea before being used to create the [Scrolls of the Nine Barriers](https://www.nexusmods.com/morrowind/mods/45831) mod.

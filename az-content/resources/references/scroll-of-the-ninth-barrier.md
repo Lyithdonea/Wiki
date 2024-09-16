@@ -13,7 +13,10 @@ description: This rare magical scroll is the most powerful shielding scroll in t
 > | --- | --- |
 > | Source | Morrowind |
 
-THE NINTH BARRIER CANNOT EXIST! ^0f0645
+<span class="daedric">THE NINTH BARRIER CANNOT EXIST</span>
 
-> [!Note]
-> The text is displayed in Daedric in-game.
+***
+
+Translation: THE NINTH BARRIER CANNOT EXIST!.
+
+^8ef40c
