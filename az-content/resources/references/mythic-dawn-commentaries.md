@@ -13,9 +13,8 @@ description: The series of books read by initiates to the Mythic Dawn cult.
 > | Type | Name |
 > | --- | --- |
 > | Source | Oblivion |
-
 ## Book One
-[Dagon written in Daedric script]
+<span class="daedric">DAGON</span>
 
 Greetings, novitiate, and know first a reassurance: Mankar Camoran was once like you, asleep, unwise, protonymic. We mortals leave the dreaming-sleeve of birth the same, unmantled save for the symbiosis with our mothers, thus to practice and thus to rapprochement, until finally we might through new eyes leave our hearths without need or fear that she remains behind. In this moment we destroy her forever and enter the demesne of Lord Dagon.
 
@@ -41,7 +40,7 @@ Offering myself to that daybreak allowed the girdle of grace to contain me. When
 
 Red-drink, razor-fed, I had glimpsed the path unto the garden, and knew that to inform others of its harbor I had to first drown myself in search’s sea. Know ye that I have found my fleet, and that you are the flagship of my hope. Greetings, novitiate, Mankar Camoran was once you, asleep, unwise, protonymic, but Am No More. Now I sit and wait to feast with thee on all the worlds of this cosmos. Nu-mantia! Liberty!
 ## Book Two
-[ALTADOON written in Daedric script]
+<span class="daedric">ALTADOON</span>
 
 Whosoever findeth this document, I call him brother.
 
@@ -59,7 +58,7 @@ Recorded, the slaves that without knowing turn the Wheel.
 
 Enslaved, all the children of the Aurbis As It Is.
 ## Book Three
-[CHIM written in Daedric script]
+<span class="daedric">CHIM</span>
 
 The Tower touches all the mantles of Heaven, brother-noviates, and by its apex one can be as he will. More: be as he was and yet changed for all else on that path for those that walk after. This is the third key of Nu-mantia and the secret of how mortals become makers, and makers back to mortals. The Bones of the Wheel need their flesh, and that is mankind’s heirloom.
 
@@ -85,7 +84,7 @@ Endeth we seek through our Dawn, all endeth. Falter now and become one with the 
 
 Starlight is your mantle, brother. Wear it to see by and add its light to Paradise.
 ## Book Four
-[Ghartok written in Daedric script]
+<span class="daedric">GHARTOK</span>
 
 May the holder of the fourth key know the heart thereby: the Mundex Terrene was once ruled over solely by the tyrant dreugh-kings, each to their own dominion, and borderwars fought between their slave oceans. They were akin to the time-totems of old, yet evil, and full of mockery and profane powers. No one that lived did so outside of the sufferance of the dreughs. ^aa1b63
 
