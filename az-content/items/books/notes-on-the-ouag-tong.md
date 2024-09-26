@@ -18,7 +18,7 @@ author:
 > 
 > ## Book Information
 > 
-> ![[icon-mw-book-01.png]]
+> ![[icon-mw-scroll-01.png]]
 > 
 > | Type | Name |
 > | --- | --- |

@@ -12,13 +12,13 @@ tags:
   - akavir
   - rare
   - original
-description:
+description: A pair of Akaviri books about the Tsaesci.
 ---
 > [!infobox|n-th]
 > 
 > ## Book Information
 > 
-> ![[icon-mw-book-01.png]]
+> ![[icon-az-book-whispers.png]]
 > 
 > | Type | Name |
 > | --- | --- |

@@ -18,7 +18,7 @@ description: A fragment from a text which discusses how Azura may be related to 
 > 
 > ## Book Information
 > 
-> ![[icon-mw-book-01.png]]
+> ![[icon-az-book-natureoftheetada.png]]
 > 
 > | Type | Name |
 > | --- | --- |

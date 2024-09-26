@@ -16,7 +16,7 @@ description: A Discourse On The Theory and Praxis of Traveling Between Mundus an
 > 
 > ## Book Information
 > 
-> ![[icon-mw-book-01.png]]
+> ![[icon-az-book-liminalbridges.png]]
 > 
 > | Type | Name |
 > | --- | --- |

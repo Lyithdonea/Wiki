@@ -15,7 +15,7 @@ description: Five major aspects of Azura worship.
 > 
 > ## Book Information
 > 
-> ![[icon-mw-book-01.png]]
+> ![[icon-az-book-the5pointsofthestar.png]]
 > 
 > | Type | Name |
 > | --- | --- |

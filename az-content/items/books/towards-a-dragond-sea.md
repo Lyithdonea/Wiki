@@ -18,7 +18,7 @@ author:
 > 
 > ## Book Information
 > 
-> ![[icon-az-book-impcensusofdaedra.png]]
+> ![[icon-az-book-dragondsea.png]]
 > 
 > | Type | Name |
 > | --- | --- |

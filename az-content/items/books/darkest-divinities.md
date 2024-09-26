@@ -14,7 +14,7 @@ description: A poem dedicated to the Daedric Princes
 > 
 > ## Book Information
 > 
-> ![[icon-mw-book-01.png]]
+> ![[icon-az-book-darkestdivinities.png]]
 > 
 > | Type | Name |
 > | --- | --- |

@@ -14,7 +14,7 @@ description: Notes on Mephala's realm and the Pillar Palace.
 > 
 > ## Book Information
 > 
-> ![[icon-mw-book-01.png]]
+> ![[icon-az-book-rumorsofspiralskein.png]]
 > 
 > | Type | Name |
 > | --- | --- |

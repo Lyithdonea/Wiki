@@ -16,7 +16,7 @@ description: A promotional booklet published by House Azura.
 > 
 > ## Book Information
 > 
-> ![[icon-mw-book-01.png]]
+> ![[icon-az-book-findingtherose.png]]
 > 
 > | Type | Name |
 > | --- | --- |
