@@ -1,12 +1,12 @@
 ---
-title: Ralianus Grotto
+title: Kannika Grotto
 aliases:
-  - Ralianus Grotto
+  - Kannika Grotto
 tags:
   - settlements
 description: The Black Pirates' primary base of operations in Lyithdonea.
 ---
-Ralianus Grotto is the primary base of operations of the [[padomaic-pirates|Black Pirates]] in [[lyithdonea|Lyithdonea]]. The entrances to the grotto have been carefully concealed by illusory magic. Most pirates found outside of the grotto are hostile if approached but the residents here can be pacified if sufficient assurances are made by any unexpected visitors.
+Kannika Grotto is the primary base of operations of the Tiger Moth clan of the [[padomaic-pirates|Black Pirates]] in [[lyithdonea|Lyithdonea]]. The entrances to the grotto have been carefully concealed by illusory magic.
 ## Interiors
 ### Docks
 **Docks-01 - Fishermen's Shack**
@@ -19,7 +19,7 @@ Ralianus Grotto is the primary base of operations of the [[padomaic-pirates|Blac
 
 **Docks-03 - The Last Delight**
 * Interior shell: AB_In_ImpGalleonFull
-* Description: Pirate ship. Recently arrived from Esroniet. Stopping in Ralianus Grotto to resupply.
+* Description: Pirate ship. Recently arrived from Esroniet. Stopping in Kannika Grotto to resupply.
 ### Waterside
 **Water-01 - Waterside Tavern**
 * Interior shell: az_In_CastawayShack03
