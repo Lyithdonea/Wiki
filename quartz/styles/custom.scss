@@ -17,7 +17,7 @@
 
 /* --- MMW Logo on mobile display --- */
 
-@media screen and (max-width:$mobileBreakpoint) {
+@media screen and ($mobile) {
   .Logo {
     max-height: 150px;
     min-height: 100px;
