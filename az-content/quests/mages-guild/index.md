@@ -75,3 +75,47 @@ Magisters Jemusette Loche and Laarie offer their quests simultaneously.
 | [[magister-crim\|Magister Crim]]                       | Redguard | Male   | Dor Dalla | Guild of Mages             | Master of Initiates, Alchemy/Zoology/Restoration/[[chirurgy\|Chirurgy]]/Vampire/Blood Magic/Flesh Magic |
 | [[palatinus-medius\|Palatinus Medius]]                 | Imperial | Male   | Dor Dalla | Order of the Lamp Barracks | Palatinus, Counsels Master at Arms. Reports to Archmagister                                             |
 |                                                        |          |        |           |                            |                                                                                                         |
+
+
+Why are the MG here?
+* They are drawn by the weak boundaries between the mortal realm and the spirit realm here.
+
+What activities will they participate in now that they're here?
+* Searching for locations where the boundaries are weakest
+* Testing spells in these places and taking samples
+	* Is conjuring daedra easier? Summoning the undead?
+	* Are teleport anchors affected when caught between Oblivion and Mundus?
+* Studying creatures which have been affected by the weak boundaries
+* Attempting travel to Oblivion and/or the Outer Realms
+
+What things could happen as a result of these activities?
+* Find dangerous locations where people go missing or terrible spirits are unleashed
+* Discover new spell techniques which unlock hidden potential of unique creatures, artifacts, or locations
+
+How would the MG's work be viewed by House Azura (HA)?
+* MG has permission to conduct research within the bounds of Dor Dalla. They have to acquire permission to conduct it elsewhere in the isles. They may pursue both officially sanctioned research as well as unofficial...
+	* MG might get into trouble and need to smooth things over with HA.
+
+Wouldn't the HA already know about areas where the boundary is weakest?
+* HA has built shrines at the most well known locations. Including the peak of Starmount (Shrine of the Ninth Barrier), the Isles of Dawn, Isles of Dusk, and Azularrabel.
+* MG is generally not granted permission to research these holy locations. So most of their research has to be at less prominent locations.
+
+How does the HA keep tabs on what the MG is up to?
+* HA requires monthly reports and will occasionally send an auditor to Dor Dalla.
+* HA guards also patrol Lyithdonea
+
+How might someone exploit the liminal barrier being weak in Lyithdonea?
+* A powerful entity could attempt to cross over.
+* Profit off of a unique alchemical ingredient which can be found there
+* Shortcut to get purer creatia/magicka which hasn't been filtered through the lunar lattice / liminal barrier
+* Create a "soul loop" form of immortality by keeping one's soul trapped in a location which is perfectly between the mortal and spirit world.
+
+If the boundaries are weak here, what's kept daedra from invading?
+* Moonshadow is effectively "plugging the hole" through Azura's active manifestation in the Rosery Temple which metaphysically draws Moonshadow and Lyithdonea together. There are other weaker connections to Oblivion to be found, but most portals lead to Moonshadow.
+
+How would the fact that most of these connections are with Moonshadow affect their nature?
+* Visually, they may evoke descriptions of Moonshadow itself: rain, running water, blur of color/shapes, flowers, silver architecture.
+* Since Moonshadow is an extention of Azura, it may reflect the nature of her spheres as well.
+	* Twilight (aka Dawn/Dusk) is a "magical in-between realm" which could be connected to how (connected with her knowledge of the First Secret) Azura has managed to pierce the mortal boundary in this particular location.
+		* These locations may only be visible at Twilight, and/or perhaps only transport visitors at those times.
+	* Azura is related to fate and prophecy. being in these locations could affect the use of divination, the unraveling of fate itself, or allowing "self-fulfilling prophecies"
